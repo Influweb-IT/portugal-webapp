@@ -47,13 +47,18 @@
       "items": [
         {
           "type": "language",
-          "itemKey": "en",
-          "value": "en"
+          "itemKey": "ee",
+          "value": "ee"
         },
         {
           "type": "language",
-          "itemKey": "it",
-          "value": "it"
+          "itemKey": "ru",
+          "value": "ru"
+        },
+        {
+          "type": "language",
+          "itemKey": "en",
+          "value": "en"
         }
       ]
     }

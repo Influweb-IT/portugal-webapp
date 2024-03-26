@@ -29,8 +29,9 @@
       "title": "Language",
       "info": "You can change the language here.",
       "languages": {
-        "en": "English",
-        "it": "Italiano"
+        "ee": "Estonian",
+        "ru": "Russian",
+        "en": "English"
       }
     }
   },

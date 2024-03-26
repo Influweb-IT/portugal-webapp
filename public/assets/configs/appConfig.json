@@ -2,12 +2,16 @@
   "instanceId": "default",
   "languages": [
     {
-      "code": "en",
-      "itemKey": "en"
+      "code": "ee",
+      "itemKey": "ee"
     },
     {
-      "code": "it",
-      "itemKey": "it"
+      "code": "ru",
+      "itemKey": "ru"
+    },
+    {
+      "code": "en",
+      "itemKey": "en"
     }
   ],
   "avatars": [
