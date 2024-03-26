@@ -42,13 +42,13 @@
   },
   "references": {
     "title": "In need of assistance?",
-    "privacyStatementLink": "Privacy statement",
+    "privacyStatementLink": "Privacy policy",
     "contactLink": "Contact"
   },
   "systemInfo": {
     "title": "System information",
     "appNameLabel": "Application name",
-    "appName": "Influenzanet",
+    "appName": "Gripiradar",
     "versionLabel": "Version",
     "browserNameLabel": "Browser name",
     "browserVersionLabel": "Browser version"

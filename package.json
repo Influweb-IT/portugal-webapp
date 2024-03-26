@@ -1,6 +1,6 @@
 {
-  "name": "influenzanet",
-  "version": "1.14.5-4",
+  "name": "gripiradar",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@fontsource/open-sans": "^4.2.1",

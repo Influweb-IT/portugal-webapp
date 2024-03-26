@@ -27,12 +27,6 @@
     "body": "Find more about us.",
     "actionLabel": "Learn more"
   },
-  "infoCard": {
-    "imageAlt": "Info image",
-    "title": "Info",
-    "body": "Additional information",
-    "actionLabel": "Learn more"
-  },
   "references": {
     "title": "Read More",
     "aboutLink": "About"

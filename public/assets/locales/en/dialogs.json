@@ -38,8 +38,8 @@
     "passwordInputPlaceholder": "Enter Password",
     "confirmPasswordInputLabel": "Confirm Password",
     "confirmPasswordInputPlaceholder": "Enter Password Again",
-    "informedConsentCheckbox": "Access the <1>privacy statement</1>.*",
-    "reCaptchaCookieCheckbox": "Access <1>reCAPTCHA statement</1>.*",
+    "informedConsentCheckbox": "Accept the <1>privacy policy</1>.*",
+    "reCaptchaCookieCheckbox": "Accept <1>reCAPTCHA statement</1>.*",
     "signupBtn": "Sign up",
     "loginLink": "Have an account already? Login in here.",
     "reCaptchaLinks": "This site is protected by reCAPTCHA and the Google <1>Privacy Policy</1> and <3>Terms of Service</3> apply.",
@@ -53,7 +53,7 @@
     }
   },
   "privacyConsent": {
-    "title": "Privacy Consent",
+    "title": "Privacy policy",
     "acceptBtn": "I consent",
     "cancelBtn": "I do not consent"
   },

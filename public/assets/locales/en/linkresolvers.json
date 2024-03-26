@@ -48,14 +48,14 @@
       "newPasswordPlaceholder": "Enter password",
       "confirmPasswordLabel": "Confirm Password",
       "confirmPasswordPlaceholder": "Enter password again",
-      "informedConsentCheckbox": "Access the <1>privacy statement</1>.*",
+      "informedConsentCheckbox": "Accept the <1>privacy policy</1>.*",
       "btn": "Confirm password",
       "restartBtn": "Again",
       "successMsg": "Password confirmed",
       "successBtn": "Login"
     },
     "privacyConsent": {
-      "title": "Privacy Consent",
+      "title": "Privacy policy",
       "acceptBtn": "I consent",
       "cancelBtn": "I do not consent"
     },
