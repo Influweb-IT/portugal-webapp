@@ -56,25 +56,6 @@
               ]
             },
             {
-              "key": "cardResultsCol",
-              "className": "col-12 col-md-6 col-lg-4 mt-3",
-              "items": [
-                {
-                  "itemKey": "currentResultCard",
-                  "className": "h-100",
-                  "config": {
-                    "type": "imageCard",
-                    "showActionBtn": true,
-                    "action": {
-                      "type": "navigate",
-                      "value": "/results"
-                    },
-                    "imageSrc": "/images/results.jpg"
-                  }
-                }
-              ]
-            },
-            {
               "key": "cardSignupCol",
               "className": "col-12 col-lg-4 mt-3",
               "items": [
@@ -89,25 +70,6 @@
                       "value": "signup"
                     },
                     "imageSrc": "/images/participate.jpg"
-                  }
-                }
-              ]
-            },
-            {
-              "key": "newsCardCol",
-              "className": "col-12 col-lg-4 mt-3",
-              "items": [
-                {
-                  "itemKey": "newsCard",
-                  "className": "h-100",
-                  "config": {
-                    "type": "imageCard",
-                    "showActionBtn": true,
-                    "action": {
-                      "type": "navigate",
-                      "value": "/news"
-                    },
-                    "imageSrc": "/images/news.jpg"
                   }
                 }
               ]
@@ -176,32 +138,6 @@
       ]
     },
     {
-      "path": "/results",
-      "pageKey": "results",
-      "rows": [
-        {
-          "key": "contentRow",
-          "containerClassName": "my-3 min-vh-60",
-          "columns": [
-            {
-              "key": "contentCol",
-              "className": "col-12 col-lg-8",
-              "items": [
-                {
-                  "itemKey": "results",
-                  "config": {
-                    "type": "markdown",
-                    "markdownUrl": "markdowns/results.md",
-                    "flavor": "chart-renderer"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "path": "/home",
       "hideWhen": "unauth",
       "pageKey": "landing",
@@ -259,19 +195,9 @@
                     "type": "linkList",
                     "links": [
                       {
-                        "linkKey": "resultsLink",
-                        "type": "internal",
-                        "value": "/results"
-                      },
-                      {
                         "linkKey": "aboutLink",
                         "type": "internal",
                         "value": "/about"
-                      },
-                      {
-                        "linkKey": "faqLink",
-                        "type": "internal",
-                        "value": "/faq"
                       }
                     ]
                   }
@@ -351,11 +277,6 @@
                     "type": "linkList",
                     "links": [
                       {
-                        "linkKey": "faqLink",
-                        "type": "internal",
-                        "value": "/faq"
-                      },
-                      {
                         "linkKey": "privacyStatementLink",
                         "type": "internal",
                         "value": "/privacy"
@@ -373,75 +294,6 @@
                   "config": {
                     "type": "systemInfo",
                     "showBrowserInfo": true
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "path": "/faq",
-      "pageKey": "faq",
-      "rows": [
-        {
-          "key": "content",
-          "fullWidth": false,
-          "containerClassName": "my-3 min-vh-60",
-          "columns": [
-            {
-              "key": "mainCol",
-              "className": "col-12 col-lg-8",
-              "items": [
-                {
-                  "itemKey": "topFaq",
-                  "className": "",
-                  "config": {
-                    "type": "simpleCard",
-                    "variant": "h2"
-                  }
-                },
-                {
-                  "itemKey": "faq",
-                  "className": "",
-                  "config": {
-                    "type": "accordionList",
-                    "accordionCtrlsKey": "accordionControls"
-                  }
-                }
-              ]
-            },
-            {
-              "key": "cardSignupCol",
-              "className": "col-12 col-lg-4 mt-3 mt-lg-0",
-              "items": [
-                {
-                  "itemKey": "signupCard",
-                  "hideWhen": "auth",
-                  "className": "",
-                  "config": {
-                    "type": "imageCard",
-                    "action": {
-                      "type": "openDialog",
-                      "value": "signup"
-                    },
-                    "imageSrc": "/images/participate.jpg",
-                    "showActionBtn": true
-                  }
-                },
-                {
-                  "itemKey": "surveyCard",
-                  "hideWhen": "unauth",
-                  "className": "",
-                  "config": {
-                    "type": "imageCard",
-                    "action": {
-                      "type": "navigate",
-                      "value": "/home"
-                    },
-                    "imageSrc": "/images/survey.jpg",
-                    "showActionBtn": true
                   }
                 }
               ]
@@ -577,84 +429,6 @@
                   "config": {
                     "type": "markdown",
                     "markdownUrl": "/markdowns/privacy.md"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "path": "/accessibility",
-      "pageKey": "accessibility",
-      "rows": [
-        {
-          "key": "content",
-          "containerClassName": "my-3 min-vh-60",
-          "columns": [
-            {
-              "key": "pCol",
-              "className": "col-12 col-sm-10 col-md-8",
-              "items": [
-                {
-                  "itemKey": "accessibility",
-                  "className": "",
-                  "config": {
-                    "type": "markdown",
-                    "markdownUrl": "/markdowns/accessibility.md"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "path": "/disclaimer",
-      "pageKey": "disclaimer",
-      "rows": [
-        {
-          "key": "content",
-          "containerClassName": "my-3 min-vh-60",
-          "columns": [
-            {
-              "key": "pCol",
-              "className": "col-12 col-sm-10 col-md-8",
-              "items": [
-                {
-                  "itemKey": "disclaimer",
-                  "className": "",
-                  "config": {
-                    "type": "markdown",
-                    "markdownUrl": "/markdowns/disclaimer.md"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "path": "/news",
-      "pageKey": "news",
-      "rows": [
-        {
-          "key": "content",
-          "containerClassName": "my-3 min-vh-60",
-          "columns": [
-            {
-              "key": "pCol",
-              "className": "col-12 col-sm-10 col-md-8",
-              "items": [
-                {
-                  "itemKey": "accessibility",
-                  "className": "",
-                  "config": {
-                    "type": "markdown",
-                    "markdownUrl": "/markdowns/news.md"
                   }
                 }
               ]

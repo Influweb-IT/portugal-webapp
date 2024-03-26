@@ -15,12 +15,6 @@
     "showBtn": "Has your background information changed?",
     "hideBtn": "Hide"
   },
-  "referencesBox": {
-    "title": "See also",
-    "faqLink": "Frequently Asked Questions",
-    "resultsLink": "Results",
-    "aboutLink": "About"
-  },
   "quickSettingsBox": {
     "title": "Settings",
     "manageProfiles": "Add your child’s profile or change your own profile",

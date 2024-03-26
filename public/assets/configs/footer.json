@@ -29,16 +29,6 @@
           "type": "internal",
           "itemKey": "privacy",
           "value": "/privacy"
-        },
-        {
-          "type": "internal",
-          "itemKey": "disclaimer",
-          "value": "/disclaimer"
-        },
-        {
-          "type": "internal",
-          "itemKey": "accessibility",
-          "value": "/accessibility"
         }
       ]
     },

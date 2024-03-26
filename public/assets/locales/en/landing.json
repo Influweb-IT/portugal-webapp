@@ -15,12 +15,6 @@
   "logoCredits": {
     "title": "Our Supporters"
   },
-  "currentResultCard": {
-    "imageAlt": "Results image",
-    "title": "Results",
-    "body": "Take a look at our current results.",
-    "actionLabel": "Results"
-  },
   "signupCard": {
     "imageAlt": "Participate image",
     "title": "Participate",
@@ -39,17 +33,9 @@
     "body": "Additional information",
     "actionLabel": "Learn more"
   },
-  "newsCard": {
-    "imageAlt": "News image",
-    "title": "News",
-    "body": "Take a look at our latest news.",
-    "actionLabel": "Learn more"
-  },
   "references": {
     "title": "Read More",
-    "faqLink": "FAQ",
-    "aboutLink": "About",
-    "resultsLink": "Results"
+    "aboutLink": "About"
   },
   "settingsReferences": {
     "title": "Quick Settings",
