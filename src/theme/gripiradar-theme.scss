@@ -1,0 +1,43 @@
+@import './selected_color_scheme';
+@import '~case-web-ui/build/scss/helpers/spacing.scss';
+@import '~case-web-ui/build/scss/helpers/forms.scss';
+@import '~case-web-ui/build/scss/helpers/custom_range.scss';
+@import '~case-web-ui/build/scss/helpers/navbar.scss';
+@import '~case-web-ui/build/scss/helpers/borders.scss';
+@import '~case-web-ui/build/scss/helpers/date_input.scss';
+@import '~case-web-ui/build/scss/helpers//typography.scss';
+@import '~case-web-ui/build/scss/helpers/utilities.scss';
+
+@include datepicker_classes($theme-colors);
+
+// ---------------------------------------------
+// Other:
+// ---------------------------------------------
+$enable-rounded: false !default;
+$nav-tabs-link-active-color: white;
+$nav-link-color: white;
+$offcanvas-horizontal-width: 200px;
+
+.captcha-badge-alt {
+  color: map-get($theme-colors, 'grey-7');
+  & a {
+    color: #000;
+  }
+}
+
+.grecaptcha-badge {
+  visibility: hidden;
+}
+
+// fix slider question on firefox
+.form-range {
+  z-index: 1;
+  position: relative;
+}
+
+.container-lg:has(.footer-services) {
+  justify-content: center;
+}
+
+@import '~case-web-ui/build/scss/iconfonts';
+@import '~bootstrap/scss/bootstrap.scss';
