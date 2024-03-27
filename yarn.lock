@@ -2291,6 +2291,20 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
+"@influenzanet/case-web-app-core@2.7.7":
+  version "2.7.7"
+  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-app-core/-/case-web-app-core-2.7.7.tgz#8bfef34ed5e486b5a41a793b0a3d9d3645f01346"
+  integrity sha512-EztzblMksg4yThcD2jvLD55SiiIEioufSPON7GiJW9At1c5ysO0T4PQn+YEfUdC0asySuD7WmBJzPG1WO2JUAA==
+  dependencies:
+    react-bootstrap-icons "^1.10.3"
+
+"@influenzanet/case-web-ui@1.15.0":
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/@influenzanet/case-web-ui/-/case-web-ui-1.15.0.tgz#4676d0e504407601779f98e08e117daaadca1e02"
+  integrity sha512-jmasmvm7WrdkAPUQGkGOku9qdkPzxqHh7GXCUC+Ok5tbZ1BQBS8QvX0WOkPJXqIB9YWElOLqwEqNyNsVs+eQTg==
+  dependencies:
+    "@fortawesome/fontawesome-free" "^5.15.4"
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"
@@ -4150,18 +4164,6 @@ case-sensitive-paths-webpack-plugin@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/case-sensitive-paths-webpack-plugin/-/case-sensitive-paths-webpack-plugin-2.4.0.tgz#db64066c6422eed2e08cc14b986ca43796dbc6d4"
   integrity sha512-roIFONhcxog0JSSWbvVAh3OocukmSgpqOH6YpMkCvav/ySIV3JKg4Dc8vYtQjYi/UxpNE36r/9v+VqTQqgkYmw==
-
-case-web-app-core@2.7.2:
-  version "2.7.2"
-  resolved "https://registry.yarnpkg.com/case-web-app-core/-/case-web-app-core-2.7.2.tgz#cea2df0a5f0345f1d67e6740ca70f8a2a4a819a2"
-  integrity sha512-pKw7x2W/eXszcoQhIEnfdo3XnZ5SKwpbhTJ1zKeW+E3EqqhptNkLfH3zB4ku2grHudFyBKnlGjq6cdswTBKcDQ==
-
-case-web-ui@1.14.5:
-  version "1.14.5"
-  resolved "https://registry.yarnpkg.com/case-web-ui/-/case-web-ui-1.14.5.tgz#17651244b1290c17b107fa05402a26e4b65cea14"
-  integrity sha512-8OnlZIbQDPBB1Yj58dXkULKrLnza93jo+zA2+fwYob7SxlghNigIfeDDqSuNNu27QZHExubd87RH7AvUiOC+JA==
-  dependencies:
-    "@fortawesome/fontawesome-free" "^5.15.4"
 
 chalk@^2.0.0, chalk@^2.4.1:
   version "2.4.2"
@@ -8857,6 +8859,13 @@ react-app-polyfill@^3.0.0:
     raf "^3.4.1"
     regenerator-runtime "^0.13.9"
     whatwg-fetch "^3.6.2"
+
+react-bootstrap-icons@^1.10.3:
+  version "1.11.3"
+  resolved "https://registry.yarnpkg.com/react-bootstrap-icons/-/react-bootstrap-icons-1.11.3.tgz#f4483bbe4f43428df33747b12d12d91361f73cc4"
+  integrity sha512-f/DAy4UXnjdbaZyUcZKR2I3xim56uCznb9t+u3ojwzDG1p2RUrua/d8R4xplAQ8Bj/LVZwHVSrvO+npvp3l3pw==
+  dependencies:
+    prop-types "^15.7.2"
 
 react-dev-utils@^12.0.1:
   version "12.0.1"
