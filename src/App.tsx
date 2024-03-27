@@ -1,11 +1,13 @@
 import React from 'react';
-import { AppCore } from '@influenzanet/case-web-app-core';
 
-import { AppConfig } from '@influenzanet/case-web-app-core';
-import { FooterConfig } from '@influenzanet/case-web-app-core';
-import { HeaderConfig } from '@influenzanet/case-web-app-core';
-import { NavbarConfig } from '@influenzanet/case-web-app-core';
-import { PagesConfig } from '@influenzanet/case-web-app-core';
+import {
+  AppCore,
+  AppConfig,
+  FooterConfig,
+  HeaderConfig,
+  NavbarConfig,
+  PagesConfig
+} from '@influenzanet/case-web-app-core';
 
 import { it } from 'date-fns/locale';
 
