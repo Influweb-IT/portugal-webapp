@@ -1,0 +1,16 @@
+{
+  "home": "Pealeht",
+  "authhome": "Pealeht",
+  "about": "Mis on gripiradar",
+  "login": "Logi sisse",
+  "signup": "Registreeru",
+  "rightMenu": {
+    "settings": "Settings",
+    "logout": "Logout",
+    "verified": "Account not verified"
+  },
+  "exitSurveyMode": "Exit",
+  "selectedProfilePrefixInSurveyMode": "Answering for: ",
+  "toggleBtn": "Menu",
+  "toggleBtnAriaLabel": "Menu"
+}

@@ -1,0 +1,16 @@
+{
+  "home": "домашняя страница",
+  "authhome": "домашняя страница",
+  "about": "О Грипирадаре",
+  "login": "логин",
+  "signup": "Зарегистрироваться",
+  "rightMenu": {
+    "settings": "Settings",
+    "logout": "Logout",
+    "verified": "Account not verified"
+  },
+  "exitSurveyMode": "Exit",
+  "selectedProfilePrefixInSurveyMode": "Answering for: ",
+  "toggleBtn": "Menu",
+  "toggleBtnAriaLabel": "Menu"
+}
