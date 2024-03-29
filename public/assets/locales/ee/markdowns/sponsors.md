@@ -48,7 +48,7 @@
                     <img
                       align="center"
                       border="0"
-                      src="https://influweb.org/assets/images/influenzanet.png"
+                      src="assets/images/influenzanet.png"
                       alt="Image"
                       title="Image"
                       style="
