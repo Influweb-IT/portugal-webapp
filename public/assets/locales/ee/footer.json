@@ -1,0 +1,18 @@
+{
+  "services": {
+    "title": "Teenused",
+    "contact": "Kontact",
+    "twitter": "Jälgi meid Twitteris",
+    "facebook": "Jälgi meid Facebookis"
+  },
+  "about": {
+    "title": "Legal documents",
+    "privacy": "Privaatsus poliitika"
+  },
+  "languages": {
+    "title": "Keeled",
+    "ee": "Eesti keel",
+    "ru": "Vene keel",
+    "en": "Inglise keel"
+  }
+}

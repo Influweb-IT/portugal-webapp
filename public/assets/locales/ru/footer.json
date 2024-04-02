@@ -1,0 +1,18 @@
+{
+  "services": {
+    "title": "услуги",
+    "contact": "контакт",
+    "twitter": "Подпишитесь на нас в Twitter",
+    "facebook": "Подпишитесь на нас в Facebook"
+  },
+  "about": {
+    "title": "Legal documents",
+    "privacy": "Пoлитика конфиденциальности"
+  },
+  "languages": {
+    "title": "Языки",
+    "ee": "эстонский",
+    "ru": "русский",
+    "en": "английский"
+  }
+}
