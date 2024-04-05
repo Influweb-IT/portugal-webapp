@@ -1,107 +1,19 @@
-<table width="100%" class="mb-3 text-center" style="padding-bottom: 30px">
-  <tr>
-    <td>
-      <div style="text-align: center; padding: 0 10px">
-        <h2>Our Supporters</h2>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 0">
-      <table width="100%">
-        <tr>
-          <td width="33%">
-            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
-              <tr>
-                <td>
-                  <a href="https://isi.it/en/home" target="_blank">
-                    <img
-                      align="center"
-                      border="0"
-                      src="assets/images/isi.jpg"
-                      alt="Image"
-                      title="Image"
-                      style="
-                        outline: none;
-                        text-decoration: none;
-                        -ms-interpolation-mode: bicubic;
-                        clear: both;
-                        display: inline-block !important;
-                        border: none;
-                        height: auto;
-                        float: none;
-                        width: 100%;
-                        max-width: 200px;
-                      "
-                      width="105"
-                    />
-                  </a>
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td width="33%">
-            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
-              <tr>
-                <td>
-                  <a href="http://influenzanet.info/#page/home" target="_blank">
-                    <img
-                      align="center"
-                      border="0"
-                      src="assets/images/influenzanet.png"
-                      alt="Image"
-                      title="Image"
-                      style="
-                        outline: none;
-                        text-decoration: none;
-                        -ms-interpolation-mode: bicubic;
-                        clear: both;
-                        display: inline-block !important;
-                        border: none;
-                        height: auto;
-                        float: none;
-                        width: 100%;
-                        max-width: 200px;
-                      "
-                      width="105"
-                    />
-                  </a>
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td width="33%">
-            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
-              <tr>
-                <td>
-                  <a href="https://verdiproject.org/" target="_blank">
-                    <img
-                      align="center"
-                      border="0"
-                      src="assets/images/verdi_logo.jpg"
-                      alt="Image"
-                      title="Image"
-                      style="
-                        outline: none;
-                        text-decoration: none;
-                        -ms-interpolation-mode: bicubic;
-                        clear: both;
-                        display: inline-block !important;
-                        border: none;
-                        height: auto;
-                        float: none;
-                        width: 100%;
-                        max-width: 200px;
-                      "
-                      width="105"
-                    />
-                  </a>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div class="row">
+  <div class="col-12 d-flex justify-content-center">
+    <h2>Our Supporters</h2>
+  </div>
+</div>
+<div class="row mb-2">
+  <a class="col-md-3 d-flex justify-content-center" href="https://ut.ee/en" target="_blank">
+    <img class="img-fluid" src="assets/images/tartu_logo_en.png" alt="UT logo" title="UT" />
+  </a>
+  <a class="col-md-3  d-flex justify-content-center" href="https://verdiproject.org" target="_blank">
+    <img class="img-fluid" src="assets/images/verdi_logo.jpg" alt="Verdi logo" title="Verdi" />
+  </a>
+  <a class="col-md-3 d-flex justify-content-center" href="http://influenzanet.info" target="_blank">
+    <img class="img-fluid" src="assets/images/influenzanet.png" alt="Influenzanet logo" title="Influenzanet" />
+  </a>
+  <a class="col-md-3 d-flex justify-content-center" href="https://isi.it/en/home" target="_blank">
+    <img class="img-fluid" src="assets/images/isi.jpg" alt="ISI logo" title="ISI" />
+  </a>
+</div>
