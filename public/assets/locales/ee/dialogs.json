@@ -1,5 +1,5 @@
 {
-  "loadingMsg": "Loading",
+  "loadingMsg": "Laadimine",
   "login": {
     "credentials": {
       "title": "Logi sisse",
@@ -14,19 +14,19 @@
       "signupBtn": "Ei ole veel kontot? Regitreeru siin"
     },
     "verificationCode": {
-      "title": "Verify your identity",
-      "info": "Please enter the six digit code we have sent to your email address. If you cannot find it in your inbox, please also check the SPAM folder or send a new code with the button below.",
-      "codeInputLabel": "6 digit verification code",
-      "codeInputPlaceholder": "Enter Your Code",
-      "submitBtn": "Submit",
-      "resendBtn": "Send a new code"
+      "title": "Kinnitage oma identiteet",
+      "info": "Sisestage kuuekohaline kood, mille oleme teie e-posti aadressile saatnud. Kui te ei leia seda oma postkastist, kontrollige ka rämpsposti kausta või saatke alloleva nupuga uus kood.",
+      "codeInputLabel": "6-kohaline kinnituskood",
+      "codeInputPlaceholder": "Sisesta kood",
+      "submitBtn": "Esita",
+      "resendBtn": "Saada uus kood"
     },
     "errors": {
-      "accountOrPassword": "Something has gone wrong. Check your email address and password.",
-      "wrongCode": "Wrong code. Check the code we emailed you.",
-      "newCodeSent": "Wrong code. We have emailed you a new code.",
-      "rateLimit": "You will need to wait a while before you can request a new code.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "accountOrPassword": "Midagi on valesti läinud. Kontrollige oma e-posti aadressi ja parooli.",
+      "wrongCode": "Vale kood. Kontrollige koodi, mille me teile meiliga saatsime.",
+      "newCodeSent": "Vale kood. Saatsime teile uue koodi meili teel.",
+      "rateLimit": "Peate veidi ootama, enne kui saate uut koodi taotleda.",
+      "unknown": "Midagi on valesti läinud. Kontrollige oma teavet või proovige hiljem uuesti."
     }
   },
   "signup": {
@@ -37,184 +37,184 @@
     "passwordInputLabel": "Salasõna",
     "passwordInputPlaceholder": "Sisesta salasõna",
     "confirmPasswordInputLabel": "Kinnita salasõna",
-    "confirmPasswordInputPlaceholder": "Enter Password Again",
-    "informedConsentCheckbox": "Accept the <1>privacy policy</1>.*",
-    "reCaptchaCookieCheckbox": "Accept <1>reCAPTCHA statement</1>.*",
+    "confirmPasswordInputPlaceholder": "Sisesta salasõna uuesti",
+    "informedConsentCheckbox": "Nõustuge <1>privaatsuseeskirjadega</1>.*",
+    "reCaptchaCookieCheckbox": "Nõustuge <1>reCAPTCHA avaldusega</1>.*",
     "signupBtn": "Registreeru",
-    "loginLink": "Have an account already? Login in here.",
-    "reCaptchaLinks": "This site is protected by reCAPTCHA and the Google <1>Privacy Policy</1> and <3>Terms of Service</3> apply.",
+    "loginLink": "Kas teil on juba konto? Logi sisse siit.",
+    "reCaptchaLinks": "Seda saiti kaitseb reCAPTCHA ning kehtivad Google'i <1>privaatsuseeskirjad</1> ja <3>teenusetingimused</3>.",
     "errors": {
-      "emailRules": "The email address you entered is not valid.",
-      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
-      "passwordMatch": "The passwords are not the same",
-      "invalidEmail": "Your email address seems to be incorrect",
-      "userCreationFailed": "Something has gone wrong.",
-      "unknown": "Something has gone wrong."
+      "emailRules": "Sisestatud e-posti aadress ei kehti.",
+      "passwordRules": "Teie parool peab koosnema vähemalt 8 tähemärgist ja sisaldama kolme neljast järgmisest elemendist: väiketähed, suurtähed, numbrid, kirjavahemärgid.",
+      "passwordMatch": "Paroolid ei ole samad",
+      "invalidEmail": "Teie e-posti aadress näib olevat vale",
+      "userCreationFailed": "Midagi on valesti läinud.",
+      "unknown": "Midagi on valesti läinud."
     }
   },
   "privacyConsent": {
-    "title": "Privacy policy",
-    "acceptBtn": "I consent",
-    "cancelBtn": "I do not consent"
+    "title": "Privaatsuspoliitika",
+    "acceptBtn": "Nõustun",
+    "cancelBtn": "Ei nõustu"
   },
   "recaptchaConsent": {
-    "title": "ReCaptcha Consent",
-    "acceptBtn": "I agree",
-    "cancelBtn": "I don't agree"
+    "title": "ReCaptcha nõusolek",
+    "acceptBtn": "Nõustun",
+    "cancelBtn": "Ei nõustu"
   },
   "signupSuccess": {
-    "title": "Welcome!",
-    "successMsg": "You are almost signed up! \n\n First confirm your email address by clicking on the link in the confirmation email that we have sent you \n If you can’t find the email, first check your spam folder. You can also request a new email below.",
-    "emailSentMsg": "E-mail has been sent",
-    "msgForVerifiedAccount": "If you have just verified your account, you can use the button below to reload this page.",
-    "reloadUser": "Check verification",
-    "resendVerificationEmailBtn": "Resend confirmation email",
-    "wrongEmailBtn": "Did you use the wrong email address? Then change it here.",
+    "title": "Tere tulemast!",
+    "successMsg": "Olete peaaegu registreerunud! \n\n Esmalt kinnitage oma e-posti aadress, klõpsates teile saadetud kinnitusmeilis oleval lingil \n Kui te e-maili ei leia, kontrollige esmalt oma rämpsposti kausta. Allpool saate taotleda ka uut e-maili.",
+    "emailSentMsg": "E-kiri on saadetud",
+    "msgForVerifiedAccount": "Kui olete just oma konto kinnitanud, saate selle lehe uuesti laadimiseks kasutada allolevat nuppu.",
+    "reloadUser": "Kontrollige kinnitust",
+    "resendVerificationEmailBtn": "Saada kinnitus e-mail uuesti",
+    "wrongEmailBtn": "Kas kasutasite valet e-posti aadressi? Seejärel muutke seda siin.",
     "errors": {
-      "unknown": "Something has gone wrong.",
-      "verifyEmailFirst": "You need to verify your email address first by clicking the link in the registration email. If you cannot find the email, use the button to send a new email."
+      "unknown": "Midagi on valesti läinud.",
+      "verifyEmailFirst": "Esmalt peate kinnitama oma e-posti aadressi, klõpsates registreerimismeilis olevat linki. Kui te e-kirja ei leia, kasutage uue e-maili saatmiseks nuppu."
     }
   },
   "passwordForgotten": {
-    "title": "Change password",
-    "info": "Enter the email address of your account",
-    "successMessage": "Follow the link in the email we have sent you at the address below.\n If you haven’t received an email, check your spam folder or try again if possible.",
+    "title": "Muuda salasõna",
+    "info": "Sisestage oma konto e-posti aadress",
+    "successMessage": "Järgige linki, mis on teile saadetud e-mailis alloleval aadressil.\n Kui te pole e-maili saanud, kontrollige oma rämpsposti kausta või proovige võimalusel uuesti.",
     "emailInputLabel": "E-mail",
-    "emailInputPlaceholder": "Enter E-mail",
-    "submitBtn": "Change password",
+    "emailInputPlaceholder": "Sisesta E-mail",
+    "submitBtn": "Muuda parooli",
     "errors": {
-      "invalidId": "Something has gone wrong. Check your email address or connection.\n You can have another try when the button is visible again.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "invalidId": "Midagi on valesti läinud. Kontrollige oma e-posti aadressi või ühendust.\n Kui nupp on uuesti nähtaval, võite proovida uuesti.",
+      "unknown": "Midagi on valesti läinud. Kontrollige oma teavet või proovige hiljem uuesti."
     }
   },
   "changeEmail": {
-    "title": "Change email address",
-    "emailInputLabel": "New email address",
-    "emailInputPlaceholder": "New email address",
-    "passwordInputLabel": "Password",
-    "passwordInputPlaceholder": "Password",
-    "info": "Do you want to use a different email address? Change your email address by clicking on the button below. Note: you cannot log back in until you have confirmed the email address.",
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Change email address",
+    "title": "Muuda meiliaadressi",
+    "emailInputLabel": "Uus e-posti aadress",
+    "emailInputPlaceholder": "Uus e-posti aadress",
+    "passwordInputLabel": "Salasõna",
+    "passwordInputPlaceholder": "Salasõna",
+    "info": "Kas soovite kasutada teist e-posti aadressi? Muutke oma e-posti aadressi, klõpsates alloleval nupul. Märkus: te ei saa uuesti sisse logida enne, kui olete e-posti aadressi kinnitanud.",
+    "cancelBtn": "Tühista",
+    "confirmBtn": "Muuda e-posti aadress",
     "errors": {
-      "wrongPasswordOrAccountId": "Something has gone wrong. Check your information. (email address or password may be wrong)",
-      "wrongEmailFormat": "Not a valid email address.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "wrongPasswordOrAccountId": "Midagi on valesti läinud. Kontrollige oma teavet. (e-posti aadress või parool võib olla vale)",
+      "wrongEmailFormat": "Pole kehtiv e-posti aadress.",
+      "unknown": "Midagi on valesti läinud. Kontrollige oma teavet või proovige hiljem uuesti."
     },
     "warningDialog": {
-      "title": "Confirm new email address",
-      "content": "Note: you cannot log back in until you have confirmed the new email address via the link in the confirmation email that we have sent you.",
-      "cancelBtn": "Cancel",
-      "confirmBtn": "Confirm"
+      "title": "Kinnitage uus e-posti aadress",
+      "content": "Märkus: te ei saa uuesti sisse logida enne, kui olete uue e-posti aadressi kinnitanud teile saadetud kinnitus e-mailis oleva lingi kaudu.",
+      "cancelBtn": "Tühista",
+      "confirmBtn": "Kinnita"
     },
     "successDialog": {
-      "title": "Email address changed",
-      "content": "Success! Your email address has been changed.",
+      "title": "E-posti aadress muudetud",
+      "content": "Edu! Teie e-posti aadress on muudetud.",
       "btn": "Ok"
     }
   },
   "changePassword": {
-    "title": "Change password",
-    "currentPasswordInputLabel": "Current password",
-    "currentPasswordInputPlaceholder": "Current password",
-    "newPasswordInputLabel": "New password",
-    "newPasswordInputPlaceholder": "New password",
-    "confirmPasswordInputLabel": "Confirm new password",
-    "confirmPasswordInputPlaceholder": "Confirm new password",
-    "info": "For security reasons, you must first provide your current password.",
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Confirm",
+    "title": "Muuda salasõna",
+    "currentPasswordInputLabel": "Kehtiv salasõna",
+    "currentPasswordInputPlaceholder": "Kehtiv salasõna",
+    "newPasswordInputLabel": "Uus salasõna",
+    "newPasswordInputPlaceholder": "Uus salasõna",
+    "confirmPasswordInputLabel": "Kinnita uus salasõna",
+    "confirmPasswordInputPlaceholder": "Kinnita uus salasõna",
+    "info": "Turvakaalutlustel peate esmalt sisestama oma praeguse parooli.",
+    "cancelBtn": "Tühista",
+    "confirmBtn": "Kinnita",
     "errors": {
-      "wrongCurrentPassword": "Wrong password",
-      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
-      "passwordMatch": "The passwords are not the same",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "wrongCurrentPassword": "Vale salasõna",
+      "passwordRules": "Teie parool peab koosnema vähemalt 8 tähemärgist ja sisaldama kolme neljast järgmisest elemendist: väiketähed, suurtähed, numbrid, kirjavahemärgid.",
+      "passwordMatch": "Paroolid ei ole samad",
+      "unknown": "Midagi on valesti läinud. Kontrollige oma teavet või proovige hiljem uuesti."
     },
     "successDialog": {
-      "title": "Password changed",
-      "content": "Success! Your password has been changed",
+      "title": "Parool muudetud",
+      "content": "Edu! Teie parool on muudetud",
       "btn": "Ok"
     }
   },
   "manageProfiles": {
-    "title": "Profiles",
-    "mainProfileLabel": "Me",
-    "cancelBtn": "Cancel",
-    "newProfileBtn": "New profile for your child",
+    "title": "Profiilid",
+    "mainProfileLabel": "Mina",
+    "cancelBtn": "Tühista",
+    "newProfileBtn": "Uus profiil Teie lapsele",
     "warningDialog": {
-      "title": "Delete profile",
-      "content": "The removal of the profile {{ alias }} cannot be undone.",
-      "cancelBtn": "Cancel",
-      "confirmBtn": "Delete profile"
+      "title": "Kustuta profiil",
+      "content": "Profiili {{ alias }} eemaldamist ei saa tagasi võtta.",
+      "cancelBtn": "Tühista",
+      "confirmBtn": "Kustuta profiil"
     }
   },
   "editProfile": {
     "new": {
-      "title": "New Profile",
-      "cancelBtn": "Cancel",
-      "submitBtn": "Create profile for your child"
+      "title": "Uus profiil",
+      "cancelBtn": "Tühista",
+      "submitBtn": "Loo uus profiil lapsele"
     },
     "edit": {
-      "title": "Edit Profile",
-      "cancelBtn": "Cancel",
-      "submitBtn": "Save Changes"
+      "title": "Muuda profiili",
+      "cancelBtn": "Tühista",
+      "submitBtn": "Salvesta muudatused"
     },
-    "aliasInputLabel": "Nickname",
-    "aliasInputPlaceholder": "Nickname",
-    "consentCheckboxLabel": "Consent",
-    "consentCheckboxText": "You may only create a profile and complete questionnaires for yourself or as a parent or legal representative of your child who has not yet reached the age of 18",
-    "avatarSelectorLabel": "Choose a picture"
+    "aliasInputLabel": "Hüüdnimi",
+    "aliasInputPlaceholder": "Hüüdnimi",
+    "consentCheckboxLabel": "Nõusolek",
+    "consentCheckboxText": "Sa võid luua profiili ja täita küsimustikke ainult enda nimel või lapsevanemana või seadusliku esindajana oma alla 18-aastase lapse eest, ",
+    "avatarSelectorLabel": "Vali pilt"
   },
   "changeLanguage": {
-    "title": "Languages",
-    "defaultLanguageLabel": "Default language",
-    "info": "You can change the default language here. If availble, also emails will be send in this language.",
+    "title": "Keeled",
+    "defaultLanguageLabel": "Vaikimisi keel",
+    "info": "Siin saate muuta vaikekeelt. Võimaluse korral saadetakse ka e-kirjad selles keeles.",
     "languages": {
-      "ee": "Estonian",
-      "ru": "Russian",
-      "en": "English"
+      "ee": "Eesti",
+      "ru": "Vene",
+      "en": "Inglise"
     },
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Confirm language",
+    "cancelBtn": "Tühista",
+    "confirmBtn": "Kinnita keel",
     "errors": {
-      "emtyLanguages": "Failed to load languages. Please try again later",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "emtyLanguages": "Keelte laadimine ebaõnnestus. Palun proovi hiljem uuesti",
+      "unknown": "Midagi on valesti läinud. Kontrollige oma teavet või proovige hiljem uuesti."
     },
     "successDialog": {
-      "title": "Language changed",
-      "content": "Success! The default language has changed.",
+      "title": "Keel muudetud",
+      "content": "Edu! Vaikekeel on muutunud.",
       "btn": "Ok"
     }
   },
   "changeNotifications": {
-    "title": "Email settings",
-    "info": "You can opt to stop receiving the weekly reminder email or the newsletter.",
+    "title": "E-posti seaded",
+    "info": "Saate valida iganädalase meeldetuletuse e-maili või uudiskirja saamiseks.",
     "weeklyReminder": {
-      "label": "Weekly reminder email",
-      "on": "I would like to receive the weekly reminder email",
-      "off": "Don't receive the weekly reminder email"
+      "label": "Iganädalane meeldetuletus e-mail",
+      "on": "Soovin saada iganädalast meeldetuletust e-mailile",
+      "off": "Ei soovi saada iganädalast meeldetuletust e-mailile"
     },
     "newsletter": {
-      "label": "Email to all participants. Sometimes it will be necessary to send an email to all participants with information about the study.",
-      "on": "I would like to receive these emails to all participants",
-      "off": "Don’t receive these emails to all participants"
+      "label": "Saada kõigile osalejatele. Mõnikord on vaja saata kõigile osalejatele e-kiri uuringu kohta käiva teabega.",
+      "on": "Soovin saada need e-kirjad kõigile osalejatele",
+      "off": "Ärge saage neid e-meile kõigile osalejatele"
     },
-    "cancelBtn": "Cancel",
-    "submitBtn": "Submit",
+    "cancelBtn": "Tühista",
+    "submitBtn": "Esita",
     "successDialog": {
-      "title": "Settings are changed",
-      "content": "Done! Your email setting are changed.",
+      "title": "Parameetrid salvestatud",
+      "content": "Valmis! Teie e-posti seadeid on muudetud.",
       "btn": "Ok"
     }
   },
   "deleteAccount": {
-    "title": "Withdraw from study",
-    "info": "Are you sure you want to delete your account? \nThis action cannot be undone.",
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Withdraw",
+    "title": "Uuringust eemaldamine",
+    "info": "Kas olete kindel, et soovite oma konto kustutada? \nSeda toimingut ei saa tagasi võtta.",
+    "cancelBtn": "Tühista",
+    "confirmBtn": "Eemalda",
     "successDialog": {
-      "title": "Account deleted",
-      "content": "Done! Your account has been deleted. Thank you for your contribution. You can always participate again by creating a new account.",
+      "title": "Konto kustutatud",
+      "content": "Valmis! Teie konto on kustutatud. Täname panuse eest. Saate alati uuesti osaleda, luues uue konto.",
       "btn": "Ok"
     }
   }

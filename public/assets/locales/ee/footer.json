@@ -1,12 +1,12 @@
 {
   "services": {
     "title": "Teenused",
-    "contact": "Kontact",
+    "contact": "Kontakt",
     "twitter": "Jälgi meid Twitteris",
     "facebook": "Jälgi meid Facebookis"
   },
   "about": {
-    "title": "Legal documents",
+    "title": "Juriidilised dokumendid",
     "privacy": "Privaatsus poliitika"
   },
   "languages": {

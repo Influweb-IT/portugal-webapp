@@ -1,0 +1,84 @@
+{
+  "verifyEmail": {
+    "title": "E-posti aadressi kinnitamine",
+    "content": {
+      "info": "",
+      "success": "Edu! Teie e-posti aadress on kinnitatud. \n\n Logige sisse kohe.",
+      "btn": {
+        "successWithAuth": "Avaleht",
+        "successWithoutAuth": "Logi sisse",
+        "errorWithAuth": "Avaleht",
+        "errorWithoutAuth": "Mine sisselogimisele"
+      }
+    },
+    "errors": {
+      "wrongToken": "Midagi läks valesti. Kontrollige, et kasutate õiget linki, ja et te pole seda linki varem proovinud. Vajadusel paluge uus e-kiri.",
+      "unknown": "Midagi läks valesti. Kontrollige oma teavet või proovige hiljem uuesti."
+    }
+  },
+  "passwordReset": {
+    "title": "Uus parool",
+    "content": {
+      "info": "",
+      "emailLabel": "E-post",
+      "emailPlaceholder": "Sisestage e-post",
+      "newPasswordLabel": "Parool",
+      "newPasswordPlaceholder": "Sisestage uus parool",
+      "confirmPasswordLabel": "Kinnitage parool",
+      "confirmPasswordPlaceholder": "Sisestage uus parool uuesti",
+      "btn": "Muuda parooli",
+      "restartBtn": "Uuesti",
+      "successMsg": "Parool on muudetud",
+      "successBtn": "Logi sisse"
+    },
+    "errors": {
+      "passwordRules": "Teie parool peab koosnema vähemalt 8 tähemärgist ja sisaldama kolme neljast järgmisest elemendist: väiketähed, suurtähed, numbrid, kirjavahemärgid.",
+      "passwordMatch": "Paroolid ei ole samad",
+      "wrongToken": "Midagi läks valesti. Kontrollige, et kasutate õiget linki, ja et te pole seda linki varem proovinud. Vajadusel paluge uus e-kiri.",
+      "unknown": "Midagi läks valesti. Kontrollige oma teavet või proovige hiljem uuesti."
+    }
+  },
+  "invitation": {
+    "title": "Tere tulemast!",
+    "content": {
+      "info": "## Tere tulemast! \n\n Enne süsteemi kasutamise alustamist peate määrama parooli.",
+      "emailLabel": "E-post",
+      "emailPlaceholder": "Sisestage e-post",
+      "newPasswordLabel": "Parool",
+      "newPasswordPlaceholder": "Sisestage parool",
+      "confirmPasswordLabel": "Kinnitage parool",
+      "confirmPasswordPlaceholder": "Sisestage parool uuesti",
+      "informedConsentCheckbox": "Nõustun <1>privaatsuspoliitikaga</1>.*",
+      "btn": "Kinnitage parool",
+      "restartBtn": "Uuesti",
+      "successMsg": "Parool on kinnitatud",
+      "successBtn": "Logi sisse"
+    },
+    "privacyConsent": {
+      "title": "Privaatsuspoliitika",
+      "acceptBtn": "Nõustun",
+      "cancelBtn": "Ma ei nõustu"
+    },
+    "errors": {
+      "passwordRules": "Teie parool peab koosnema vähemalt 8 tähemärgist ja sisaldama kolme neljast järgmisest elemendist: väiketähed, suurtähed, numbrid, kirjavahemärgid.",
+      "passwordMatch": "Paroolid ei ole samad",
+      "wrongToken": "Midagi läks valesti. Kontrollige, et kasutate õiget linki, ja et te pole seda linki varem proovinud. Vajadusel paluge uus e-kiri.",
+      "unknown": "Midagi läks valesti. Kontrollige oma teavet või proovige hiljem uuesti."
+    }
+  },
+  "studyLogin": {
+    "title": "Tere tulemast tagasi!",
+    "content": {
+      "cardTitle": "Logi sisse",
+      "info": "",
+      "emailInputLabel": "E-post",
+      "emailInputPlaceholder": "Sisestage e-post",
+      "passwordInputLabel": "Parool",
+      "passwordInputPlaceholder": "Sisestage parool",
+      "rememberMeLabel": "Jäta mind meelde",
+      "btn": "Logi sisse",
+      "passwordForgottenBtn": "Parool ununenud",
+      "signupBtn": "Ei ole veel kontot? Registreeru."
+    }
+  }
+}

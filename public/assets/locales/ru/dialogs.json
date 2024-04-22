@@ -1,220 +1,220 @@
 {
-  "loadingMsg": "Loading",
+  "loadingMsg": "Загрузка",
   "login": {
     "credentials": {
-      "title": "логин",
+      "title": "Войти",
       "info": "",
       "emailInputLabel": "Электронная почта",
       "emailInputPlaceholder": "Введите адрес электронной почты",
       "passwordInputLabel": "Пароль",
       "passwordInputPlaceholder": "Введите пароль",
       "rememberMeLabel": "Запомнить меня",
-      "btn": "логин",
+      "btn": "Войти",
       "passwordForgottenBtn": "Забыли пароль?",
       "signupBtn": "У вас еще нет учетной записи? Зарегистрироваться здесь"
     },
     "verificationCode": {
-      "title": "Verify your identity",
-      "info": "Please enter the six digit code we have sent to your email address. If you cannot find it in your inbox, please also check the SPAM folder or send a new code with the button below.",
-      "codeInputLabel": "6 digit verification code",
-      "codeInputPlaceholder": "Enter Your Code",
-      "submitBtn": "Submit",
-      "resendBtn": "Send a new code"
+      "title": "Подтвердите вашу личность",
+      "info": "Пожалуйста, введите 6-значный код, который мы отправили на вашу электронную почту. Если вы не можете найти его в своем почтовом ящике, пожалуйста, проверьте папку СПАМ или отправьте новый код с помощью кнопки ниже.",
+      "codeInputLabel": "6-значный код подтверждения",
+      "codeInputPlaceholder": "Введите код",
+      "submitBtn": "Отправить",
+      "resendBtn": "Отправить новый код"
     },
     "errors": {
-      "accountOrPassword": "Something has gone wrong. Check your email address and password.",
-      "wrongCode": "Wrong code. Check the code we emailed you.",
-      "newCodeSent": "Wrong code. We have emailed you a new code.",
-      "rateLimit": "You will need to wait a while before you can request a new code.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "accountOrPassword": "Что-то пошло не так. Проверьте свой адрес электронной почты и пароль.",
+      "wrongCode": "Неверный код. Проверьте код, который мы отправили вам по электронной почте.",
+      "newCodeSent": "Неверный код. Мы отправили вам по электронной почте  новый код.",
+      "rateLimit": "Вам придется подождать некоторое время, прежде чем вы сможете запросить новый код.",
+      "unknown": "Что-то пошло не так. Проверьте свои данные или повторите попытку позже."
     }
   },
   "signup": {
     "title": "Зарегистрироваться",
-    "info": "",
+    "info": "Зарегистрироваться",
     "emailInputLabel": "Электронная почта",
     "emailInputPlaceholder": "Введите адрес электронной почты",
     "passwordInputLabel": "Пароль",
     "passwordInputPlaceholder": "Введите пароль",
     "confirmPasswordInputLabel": "Подтвердите пароль",
-    "confirmPasswordInputPlaceholder": "Enter Password Again",
-    "informedConsentCheckbox": "Accept the <1>privacy policy</1>.*",
-    "reCaptchaCookieCheckbox": "Accept <1>reCAPTCHA statement</1>.*",
+    "confirmPasswordInputPlaceholder": "Введите пароль еще раз",
+    "informedConsentCheckbox": "Принять <1>политику конфиденциальности</1>.*",
+    "reCaptchaCookieCheckbox": "Принять <1>заявление reCAPTCHA</1>.*",
     "signupBtn": "Зарегистрироваться",
-    "loginLink": "Have an account already? Login in here.",
-    "reCaptchaLinks": "This site is protected by reCAPTCHA and the Google <1>Privacy Policy</1> and <3>Terms of Service</3> apply.",
-    "errors": {
-      "emailRules": "The email address you entered is not valid.",
-      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
-      "passwordMatch": "The passwords are not the same",
-      "invalidEmail": "Your email address seems to be incorrect",
-      "userCreationFailed": "Something has gone wrong.",
-      "unknown": "Something has gone wrong."
+    "loginLink": "Уже есть аккаунт? Войти здесь.",
+    "reCaptchaLinks": "Этот сайт защищен reCAPTCHA, к нему применяются <1>Политика конфиденциальности</1> и <3>Условия использования</3> Google."
+      "errors": {
+      "emailRules": "Введенный вами адрес электронной почты недействителен.",
+      "passwordRules": "Ваш пароль должен содержать не менее 8 символов и содержать 3 из следующих 4 элементов: маленькие буквы, заглавные буквы, цифры, знаки препинания.",
+      "passwordMatch": "Неверный пароль",
+      "invalidEmail": "Кажется, ваш адрес электронной почты неверен",
+      "userCreationFailed": "Что-то пошло не так.",
+      "unknown": "Что-то пошло не так."
     }
   },
   "privacyConsent": {
-    "title": "Privacy policy",
-    "acceptBtn": "I consent",
-    "cancelBtn": "I do not consent"
+    "title": "Политика конфиденциальности",
+    "acceptBtn": "Я согласен",
+    "cancelBtn": "Я не согласен"
   },
   "recaptchaConsent": {
-    "title": "ReCaptcha Consent",
-    "acceptBtn": "I agree",
-    "cancelBtn": "I don't agree"
+    "title": "Согласие на ReCaptcha",
+    "acceptBtn": "Я согласен",
+    "cancelBtn": "Я не согласен"
   },
   "signupSuccess": {
-    "title": "Welcome!",
-    "successMsg": "You are almost signed up! \n\n First confirm your email address by clicking on the link in the confirmation email that we have sent you \n If you can’t find the email, first check your spam folder. You can also request a new email below.",
-    "emailSentMsg": "E-mail has been sent",
-    "msgForVerifiedAccount": "If you have just verified your account, you can use the button below to reload this page.",
-    "reloadUser": "Check verification",
-    "resendVerificationEmailBtn": "Resend confirmation email",
-    "wrongEmailBtn": "Did you use the wrong email address? Then change it here.",
+    "title": "Добро пожаловать!",
+    "successMsg": "Вы почти зарегистрировались! \n\n Сначала подтвердите свой адрес электронной почты, нажав на ссылку в письме с подтверждением, которое мы вам отправили. \n Если вы не можете найти письмо, проверьте папку СПАМ. Вы также можете запросить новое электронное письмо ниже.",
+    "emailSentMsg": "Письмо было отправлено",
+    "msgForVerifiedAccount": "Если вы только что подтвердили свою учетную запись, вы можете использовать кнопку ниже, чтобы перезагрузить эту страницу.",
+    "reloadUser": "Проверить подтверждение",
+    "resendVerificationEmailBtn": "Повторно отправить подтверждение по электронной почте",
+    "wrongEmailBtn": "Вы использовали неправильный адрес электронной почты? Тогда измените это здесь.",
     "errors": {
-      "unknown": "Something has gone wrong.",
-      "verifyEmailFirst": "You need to verify your email address first by clicking the link in the registration email. If you cannot find the email, use the button to send a new email."
+      "unknown": "Что-то пошло не так.",
+      "verifyEmailFirst": "Сначала вам необходимо подтвердить свой адрес электронной почты, щелкнув ссылку в регистрационном письме. Если вы не можете найти электронное письмо, используйте кнопку, чтобы отправить новое электронное письмо."
     }
   },
   "passwordForgotten": {
-    "title": "Change password",
-    "info": "Enter the email address of your account",
-    "successMessage": "Follow the link in the email we have sent you at the address below.\n If you haven’t received an email, check your spam folder or try again if possible.",
-    "emailInputLabel": "E-mail",
-    "emailInputPlaceholder": "Enter E-mail",
-    "submitBtn": "Change password",
+    "title": "Изменить пароль",
+    "info": "Введите адрес электронной почты вашей учетной записи",
+    "successMessage": "Перейдите по ссылке в письме, которое мы отправили вам по указанному ниже адресу.\n Если вы не получили письмо, проверьте папку СПАМ или повторите попытку.",
+    "emailInputLabel": "Электронная почта",
+    "emailInputPlaceholder": "Введите адрес электронной почты",
+    "submitBtn": "Изменить пароль",
     "errors": {
-      "invalidId": "Something has gone wrong. Check your email address or connection.\n You can have another try when the button is visible again.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "invalidId": "Что-то пошло не так. Проверьте свой адрес электронной почты или подключение.\n Когда кнопка снова станет видимой, вы сможете повторить попытку.",
+      "unknown": "Что-то пошло не так. Проверьте свои данные или повторите попытку позже."
     }
   },
   "changeEmail": {
-    "title": "Change email address",
-    "emailInputLabel": "New email address",
-    "emailInputPlaceholder": "New email address",
-    "passwordInputLabel": "Password",
-    "passwordInputPlaceholder": "Password",
-    "info": "Do you want to use a different email address? Change your email address by clicking on the button below. Note: you cannot log back in until you have confirmed the email address.",
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Change email address",
+    "title": "Изменить адрес электронной почты",
+    "emailInputLabel": "Новый адрес электронной",
+    "emailInputPlaceholder": "Новый адрес электронной",
+    "passwordInputLabel": "Пароль",
+    "passwordInputPlaceholder": "Пароль",
+    "info": "Хотите использовать другой адрес электронной почты? Измените свой адрес электронной почты, нажав кнопку ниже. Примечание: вы не сможете войти в систему, пока не подтвердите адрес электронной почты.",
+    "cancelBtn": "Отмена",
+    "confirmBtn": "Изменить адрес электронной почты",
     "errors": {
-      "wrongPasswordOrAccountId": "Something has gone wrong. Check your information. (email address or password may be wrong)",
-      "wrongEmailFormat": "Not a valid email address.",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "wrongPasswordOrAccountId": "Что-то пошло не так. Проверьте свою информацию. (адрес электронной почты или пароль могут быть неверными)",
+      "wrongEmailFormat": "Недействительный адрес электронной почты.",
+      "unknown": "Что-то пошло не так. Проверьте свои данные или повторите попытку позже."
     },
     "warningDialog": {
-      "title": "Confirm new email address",
-      "content": "Note: you cannot log back in until you have confirmed the new email address via the link in the confirmation email that we have sent you.",
-      "cancelBtn": "Cancel",
-      "confirmBtn": "Confirm"
+      "title": "Подтвердите новый адрес электронной почты",
+      "content": "Примечание: вы не сможете снова войти в систему, пока не подтвердите новый адрес электронной почты по ссылке в электронном письме с подтверждением, которое мы вам отправили.",
+      "cancelBtn": "Отмена",
+      "confirmBtn": "Подтвердить"
     },
     "successDialog": {
-      "title": "Email address changed",
-      "content": "Success! Your email address has been changed.",
+      "title": "Адрес электронной почты изменен",
+      "content": "Успех! Ваш адрес электронной почты был изменен.",
       "btn": "Ok"
     }
   },
   "changePassword": {
-    "title": "Change password",
-    "currentPasswordInputLabel": "Current password",
-    "currentPasswordInputPlaceholder": "Current password",
-    "newPasswordInputLabel": "New password",
-    "newPasswordInputPlaceholder": "New password",
-    "confirmPasswordInputLabel": "Confirm new password",
-    "confirmPasswordInputPlaceholder": "Confirm new password",
-    "info": "For security reasons, you must first provide your current password.",
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Confirm",
+    "title": "Изменить пароль",
+    "currentPasswordInputLabel": "Текущий пароль",
+    "currentPasswordInputPlaceholder": "Текущий пароль",
+    "newPasswordInputLabel": "Новый пароль",
+    "newPasswordInputPlaceholder": "Новый пароль",
+    "confirmPasswordInputLabel": "Подтвердите новый пароль",
+    "confirmPasswordInputPlaceholder": "Подтвердите новый пароль",
+    "info": "В целях безопасности вам необходимо сначала предоставить свой текущий пароль.",
+    "cancelBtn": "Отмена",
+    "confirmBtn": "Подтвердить",
     "errors": {
-      "wrongCurrentPassword": "Wrong password",
-      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
-      "passwordMatch": "The passwords are not the same",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "wrongCurrentPassword": "Неверный пароль",
+      "passwordRules": "Ваш пароль должен содержать не менее 8 символов и содержать 3 из следующих 4 элементов: маленькие буквы, заглавные буквы, цифры, знаки препинания.",
+      "passwordMatch": "Неверный пароль",
+      "unknown": "Что-то пошло не так. Проверьте свои данные или повторите попытку позже."
     },
     "successDialog": {
-      "title": "Password changed",
-      "content": "Success! Your password has been changed",
+      "title": "Пароль изменен",
+      "content": "Успех! Ваш пароль был изменен",
       "btn": "Ok"
     }
   },
   "manageProfiles": {
-    "title": "Profiles",
-    "mainProfileLabel": "Me",
-    "cancelBtn": "Cancel",
-    "newProfileBtn": "New profile for your child",
+    "title": "Учетные записи",
+    "mainProfileLabel": "Я",
+    "cancelBtn": "Отмена",
+    "newProfileBtn": "Новая учетная запись для вашего ребенка",
     "warningDialog": {
-      "title": "Delete profile",
-      "content": "The removal of the profile {{ alias }} cannot be undone.",
-      "cancelBtn": "Cancel",
-      "confirmBtn": "Delete profile"
+      "title": "Удалить учетную запись",
+      "content": "Удаление учетной записи {{ alias }} невозможно отменить.",
+    "cancelBtn": "Отмена",
+      "confirmBtn": "Удалить учетную запись"
     }
   },
   "editProfile": {
     "new": {
-      "title": "New Profile",
-      "cancelBtn": "Cancel",
-      "submitBtn": "Create profile for your child"
+      "title": "Новая учетная запись",
+      "cancelBtn": "Отмена",
+      "submitBtn": "Создайте учетную запись для вашего ребенка"
     },
     "edit": {
-      "title": "Edit Profile",
-      "cancelBtn": "Cancel",
-      "submitBtn": "Save Changes"
+      "title": "Редактировать учетную запись",
+      "cancelBtn": "Отмена",
+      "submitBtn": "Сохранить изменения"
     },
-    "aliasInputLabel": "Nickname",
-    "aliasInputPlaceholder": "Nickname",
-    "consentCheckboxLabel": "Consent",
-    "consentCheckboxText": "You may only create a profile and complete questionnaires for yourself or as a parent or legal representative of your child who has not yet reached the age of 18",
-    "avatarSelectorLabel": "Choose a picture"
+    "aliasInputLabel": "Псевдоним",
+    "aliasInputPlaceholder": "Псевдоним",
+    "consentCheckboxLabel": "Согласие",
+    "consentCheckboxText": "Вы можете создать учетную запись и заполнить анкеты только для себя или в качестве родителя или законного представителя вашего ребенка, который еще не достиг 18-летнего возраста.",
+    "avatarSelectorLabel": "Выбрать изображение"
   },
   "changeLanguage": {
-    "title": "Languages",
-    "defaultLanguageLabel": "Default language",
-    "info": "You can change the default language here. If availble, also emails will be send in this language.",
+    "title": "Языки",
+    "defaultLanguageLabel": "Язык по умолчанию",
+    "info": "Здесь вы можете изменить язык по умолчанию. Если доступно, электронные письма также будут отправляться на этом языке.",
     "languages": {
-      "ee": "Estonian",
-      "ru": "Russian",
-      "en": "English"
+      "ee": "Эстонский",
+      "ru": "Русский",
+      "en": "Английский"
     },
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Confirm language",
+    "cancelBtn": "Отмена",
+    "confirmBtn": "Подтвердить язык",
     "errors": {
-      "emtyLanguages": "Failed to load languages. Please try again later",
-      "unknown": "Something has gone wrong. Check your information or try again later."
+      "emtyLanguages": "Не удалось загрузить языки. Пожалуйста, повторите попытку позже",
+      "unknown": "Что-то пошло не так. Проверьте свои данные или повторите попытку позже."
     },
     "successDialog": {
-      "title": "Language changed",
-      "content": "Success! The default language has changed.",
+      "title": "Язык изменен",
+      "content": "Успех! Язык по умолчанию изменен.",
       "btn": "Ok"
     }
   },
   "changeNotifications": {
-    "title": "Email settings",
-    "info": "You can opt to stop receiving the weekly reminder email or the newsletter.",
+    "title": "Настройки электронной почты",
+    "info": "Вы можете отказаться от получения еженедельных напоминаний по электронной почте или новостной рассылки.",
     "weeklyReminder": {
-      "label": "Weekly reminder email",
-      "on": "I would like to receive the weekly reminder email",
-      "off": "Don't receive the weekly reminder email"
+      "label": "Еженедельное напоминание по электронной почте",
+      "on": "Я хотел бы получать еженедельное напоминание по электронной почте",
+      "off": "Не получать еженедельное электронное письмо с напоминанием"
     },
     "newsletter": {
-      "label": "Email to all participants. Sometimes it will be necessary to send an email to all participants with information about the study.",
-      "on": "I would like to receive these emails to all participants",
-      "off": "Don’t receive these emails to all participants"
+      "label": "Отправить письмо всем участникам. Иногда будет необходимо отправить электронное письмо с информацией об исследовании всем участникам.",
+      "on": "Я хотел бы получать электронные письма всем участникам",
+      "off": "Не получать электронные письма всем участникам"
     },
-    "cancelBtn": "Cancel",
-    "submitBtn": "Submit",
+    "cancelBtn": "Отмена",
+    "submitBtn": "Подтвердить",
     "successDialog": {
-      "title": "Settings are changed",
-      "content": "Done! Your email setting are changed.",
+      "title": "Настройки изменены",
+      "content": "Готово! Настройки вашей электронной почты изменены.",
       "btn": "Ok"
     }
   },
   "deleteAccount": {
-    "title": "Withdraw from study",
-    "info": "Are you sure you want to delete your account? \nThis action cannot be undone.",
-    "cancelBtn": "Cancel",
-    "confirmBtn": "Withdraw",
+    "title": "Выход из исследования",
+    "info": "Вы уверены, что хотите удалить свою учетную запись? \nЭто действие невозможно отменить.",
+    "cancelBtn": "Отмена",
+    "confirmBtn": "Удалить",
     "successDialog": {
-      "title": "Account deleted",
-      "content": "Done! Your account has been deleted. Thank you for your contribution. You can always participate again by creating a new account.",
+      "title": "Аккаунт удален",
+      "content": "Готово! Ваш аккаунт был удален. Спасибо Вам за Ваш вклад. Вы всегда можете принять участие снова, создав новую учетную запись.",
       "btn": "Ok"
     }
   }

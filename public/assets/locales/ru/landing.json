@@ -1,61 +1,61 @@
 {
-  "title": "домашняя страница",
+  "title": "Домашняя страница",
   "loginCard": {
-    "title": "Login",
+    "title": "Авторизоваться",
     "info": "",
-    "emailInputLabel": "Email",
-    "emailInputPlaceholder": "Enter Email",
-    "passwordInputLabel": "Password",
-    "passwordInputPlaceholder": "Enter Password",
-    "rememberMeLabel": "Remember Me",
-    "btn": "Login",
-    "passwordForgottenBtn": "Forgot password?",
-    "signupBtn": "Don't yet have an account? Sign up here."
+    "emailInputLabel": "Электронная почта",
+    "emailInputPlaceholder": "Введите адрес электронной почты",
+    "passwordInputLabel": "Пароль",
+    "passwordInputPlaceholder": "Введите пароль",
+    "rememberMeLabel": "Запомнить меня",
+    "btn": "Авторизоваться",
+    "passwordForgottenBtn": "Забыли пароль?",
+    "signupBtn": "У вас еще нет учетной записи? Зарегистрируетесь здесь."
   },
   "logoCredits": {
-    "title": "Our Supporters"
+    "title": "Наши спонсоры"
   },
   "signupCard": {
-    "imageAlt": "Participate image",
-    "title": "Participate",
-    "body": "Participate in the surveys.",
-    "actionLabel": "Sign up"
+    "imageAlt": "Изображение участия",
+    "title": "Участвовать",
+    "body": "Участвовать в исследовании.",
+    "actionLabel": "Зарегистрироваться"
   },
   "aboutCard": {
-    "imageAlt": "About image",
-    "title": "About",
-    "body": "Find more about us.",
-    "actionLabel": "Learn more"
+    "imageAlt": "Об изображении",
+    "title": "О",
+    "body": "Узнайте больше о нас.",
+    "actionLabel": "Узнать больше"
   },
   "references": {
-    "title": "Read More",
-    "aboutLink": "About"
+    "title": "Читать далее",
+    "aboutLink": "Дополнительная информация"
   },
   "settingsReferences": {
-    "title": "Quick Settings",
-    "profileSettings": "Manage Profiles",
-    "communicationSettings": "Email Reminders",
-    "languageSettings": "Languages"
+    "title": "Быстрая настройка",
+    "profileSettings": "Управление учетными записями",
+    "communicationSettings": "Напоминания по электронной почте",
+    "languageSettings": "Языки"
   },
   "supportReferences": {
-    "title": "Support us",
-    "supportLink": "Information"
+    "title": "Поддерживать нас",
+    "supportLink": "Информация"
   },
   "surveyList": {
     "requiredSurveys": {
-      "title": "Questionnaires to be completed",
-      "info": "The different questionnaires for the study can be found here.",
-      "successMsg": "Thank you! You have completed all questionnaires. We hope to hear from you again next week. In case you want to provide new information sooner, you can retake the questionnaire in few hours."
+      "title": "Aнкеты для заполнения",
+      "info": "Различные анкеты для исследования можно найти здесь.",
+      "successMsg": "Спасибо! Вы заполнили все анкеты. Мы надеемся услышать от вас снова на следующей неделе. Если вы хотите предоставить новую информацию раньше, вы можете пересдать анкету через несколько часов."
     },
     "optionalSurveys": {
-      "title": "Change background information",
-      "info": "If your situation has changed, you can recomplete the background questionnaire(s) below.  Unfortunately, we cannot show you the information you entered last time, or let you change your answers to specific questions only.",
-      "hideBtn": "Hide",
-      "showBtn": "Has your background information changed?"
+      "title": "Изменить данные",
+      "info": "Если ваша ситуация изменилась, вы можете повторно заполнить приведенную ниже анкету(ы). К сожалению, мы не можем показать вам информацию, которую вы ввели в прошлый раз, или позволить изменить ответы только на конкретные вопросы.",
+      "hideBtn": "Скрыть",
+      "showBtn": "Изменилась ли ваша данные?"
     }
   },
   "teaserImage": {
-    "title": "Welcome to Gripiradar",
-    "content": "Get started by signing up to participate in the study"
+    "title": "Добро пожаловать в Грипирадар",
+    "content": "Начните регистрацию для участия в исследовании"
   }
 }

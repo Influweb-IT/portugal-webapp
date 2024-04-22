@@ -1,0 +1,32 @@
+{
+  "exitSurveyWarningDialog": {
+    "title": "Kas soovite küsimustikust väljuda?",
+    "warning": "Kõik sisestatud teave läheb kaotsi, kui te küsimustikku ei täida. Kas olete kindel, et soovite peatuda?",
+    "cancelBtn": "Jätkake küsimustiku täitmist",
+    "confirmBtn": "Väljuge küsimustikust"
+  },
+  "noSurveyLoaded": "Laadimine ebaõnnestus. Värskendage lehte",
+  "submittingSurveyResponsesMsg": "Vastuste esitamine...",
+  "notValidQuestion": "Valige kõigi küsimuste jaoks kehtiv vastus.",
+  "backBtn": "Tagasi",
+  "nextBtn": "Edasi",
+  "submitBtn": "Saada",
+  "surveyLoadingError": {
+    "content": "Kahjuks tekkis küsimustiku laadimisel viga.\n\nProovige uuesti või võtke meie tugiteenusega ühendust, kui probleem püsib.",
+    "btn": "Proovi uuesti"
+  },
+  "surveySubmissionError": {
+    "content": "Kahjuks tekkis küsimustiku saatmisel viga.\n\nProovige uuesti või võtke meie tugiteenusega ühendust, kui probleem püsib.",
+    "btn": "Proovi uuesti"
+  },
+  "submitSuccessDialog": {
+    "title": "Info",
+    "content": "Teie küsimustik on edukalt esitatud.",
+    "btn": "Jätka"
+  },
+  "profileSelectionDialog": {
+    "title": "Valige profiil",
+    "info": "Valige kasutatav profiil",
+    "manageProfilesBtn": "Loo uus profiil"
+  }
+}

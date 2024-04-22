@@ -1,15 +1,15 @@
 {
   "title": "Mis on gripiradar",
   "signupCard": {
-    "imageAlt": "Participate image",
-    "title": "Participate",
-    "body": "Help us keep an eye on influenza. Report weekly whether you have any symptoms.",
-    "actionLabel": "Sign up"
+    "imageAlt": "Osalemispilt",
+    "title": "Osale",
+    "body": "Aidake meil gripil silma peal hoida. Teatage kord nädalas, kas teil on mingeid sümptomeid.",
+    "actionLabel": "Registreeri"
   },
   "surveyCard": {
-    "imageAlt": "Report now!",
-    "title": "Report now!",
-    "body": "Report whether you have any symptoms.",
-    "actionLabel": "Questionnaires"
+    "imageAlt": "Teatage kohe!",
+    "title": "Teatage kohe!",
+    "body": "Teatage, kas teil on mingeid sümptomeid.",
+    "actionLabel": "Küsimustikud"
   }
 }
