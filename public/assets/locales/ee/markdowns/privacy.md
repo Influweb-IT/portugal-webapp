@@ -1,137 +1,147 @@
-**Privaatsuspoliitika**
+Uuring “Gripi ja gripi-laadsete sümptomite jälgimisuuring kasutades veebiküsimustikku”
 
-**1. Milliseid andmeid kogutakse ja töödeldakse uuringu raames?**
+# Andmekaitsetingimused
 
-Uuringu käigus kogutavad ja töödeldavad isikuandmed hõlmavad teavet Teie
-üldise tervise ja terviseseisundi kohta: Teie varem diagnoositud
-kroonilised haigused ja allergiad, sh Teie gripilaadsete sümptomite
-esinemist ajas, taustandmeid (näiteks vanus, sugu jmt), hingamisteede
-nakkuste tekitajate vastase vaktsineerimise ajalugu. Teie veebilehega
-ühendust võtva seadme (arvuti/nutiseadme) tehnilised andmed
-salvestatakse ainult logi andmetes. Logi andmed kogutakse
-infrastruktuuri monitoorimise ja tehniliste tõrgete kiire lahendamise
-eesmärgil.
+---
 
-**2. Kuidas töötlevad uurijad minu isikuandmeid?**
+## 1. Vastutav ja volitatud töötleja
 
-Andmeanalüüsi läbi viivatel Tartu Ülikooli uurijatel on ligipääs ainult
-isikutuvastamist mitte võimaldavatele andmetele. Kasutatavad andmed on
-pseudonüümitud järgmisel meetodil:
+Tartu Ülikool (registrikood 74001073, aadress Ülikooli 18, 50090 Tartu, e-post
+info@ut.ee) on uuringu isikuandmete vastutav töötleja.
 
-Andmekogu administraator (andmekogu administraator on Instituto per
-l'Interscambio Scientifico (ISI) Influenzanet'i tehniline meeskond) ei
-avalda kunagi Teie identiteeti (registreerumisel kasutatud e-maili
-aadress) ning pseudonüümib Teie andmed enne (asendab tuvastamist
-võimaldavad andmed uuringukoodiga), kui uurijad viivad läbi
-andmeanalüüsi.
+Uuringu volitatud töötleja on Fondazione Istituto per l’Interscambio Scientifico - I.S.I.
+Turin (Italy), Via Chisola n. 5.
 
-See tähendab, et uurigu läbiviijate vastutusel, on andmekogu
-administraator ainus, kes suudab kokku viia Teie isiku (e-maili
-aadressi) ja Teie poolt uuringu käigus edastatud andmed. Uurijate poolt
-analüüsiks kasutatavad andmed ei võimalda Teie isiku tuvastamist. Kuid
-vajadusel on võimalik TÜ-l kui vastutaval uurijal ja andmete omanikul
-küsida ISI administraatori käest koodivõtit, millega pääseb ligi
-isikustatud andmetele.
+## 2. Andmetöötluse eesmärk
 
-**3. Mis juhtub uuringu käigus minu kohta kogutud teabega?**
+Uuringu eesmärgiks on jälgida ja analüüsida gripi ja gripilaadsete sümptomite esinemist ja
+dünaamikat. Lisaks sellele tuvastada sümptomid, mis võivad viidata hingamisteede haiguste
+esinemisele, nt gripp ja SARS-CoV-2. Sümptomaatiliste isikute hulga kasvu või kahanemise
+jälgimine ajas on oluline rahvatervise näitaja.
+
+## 3. Uuringu kestus 
+
+1.november 2024 kuni oktoober 2025.
+
+## 4. Isikuandmete töötlemise õiguslik alus
+
+Isikuandmete töötlemise õiguslikuks aluseks on uuringus osalejate poolne informeeritud
+kirjalik nõusolek.
+
+## 5. Milliseid andmeid kogutakse ja töödeldakse uuringu raames?
+
+Uuringu käigus kogutavad ja töödeldavad isikuandmed on Teie kontaktandmed, IP aadress ja
+andmed, mis hõlmavad teavet Teie üldise tervise ja terviseseisundi kohta:
+
+1. E-maili aadress, ees- ja perekonnanimi
+2. Gripiradari platvomile sisenemiseks parool
+3. Taustandmed (sünnikuupäev, vanus, elukoha sihtnumber, sugu, ametialane staatus,
+haridus, laste hõivatus koolis/lasteaias)
+4. Teie varem diagnoositud kroonilised haigused ja allergiad, sh Teie gripilaadsete
+sümptomite esinemist ajas
+5. Hingamisteede nakkuste tekitajate vastase vaktsineerimise ajalugu
+6. Raseduse kohta
+
+Teie veebilehega ühendust võtva seadme (arvuti/nutiseadme) tehnilised andmed salvestatakse
+ainult logi andmetes. Logi andmed kogutakse infrastruktuuri monitoorimise ja tehniliste
+tõrgete kiire lahendamise eesmärgil.
+
+## 6. Kuidas töötlevad uurijad minu isikuandmeid?
+
+Andmed saadakse veebipõhises uuringus osalejate täidetud kolmest küsimustikust.
+Küsimustike kaudu kogutakse isikustatud andmeid ja neile on ligipääs uuringu vastutaval
+uurijal. Enne andmeanalüüsi algust muudab vastutav uurija isikustatud andmed
+pseudonüümituks ja seeläbi on Tartu Ülikooli uurijatel ligipääs ainult isikuid otseselt
+tuvastamist mitte võimaldavatele andmetele.
+
+Uuringuga liitumine on Tartu Ülikooli Gripiradari platvormil veebipõhiselt. Küsimustiku
+kaudu kogutakse andmed Tartu Ülikooli serverisse, millele on juurdepääs vastutaval
+uurijal ning infrastruktuuri administraatoritel oma tööülesannete täitmise ulatuses.
+
+## 7. Mis juhtub uuringu käigus minu kohta kogutud teabega?
 
 Uuringus osalemine tähendab, et Teie isikuandmeid
 
--   kogutakse uuringu raames
+- kogutakse uuringu raames
+- uurijad analüüsivad neid pseudonüümitult
+- pärast analüüsi lõppemist muudetakse pseudonüümitud andmed anonüümseteks andmeteks.
 
--   uurijad analüüsivad neid pseudonüümitult
+Uurijad ja volitatud töötleja kasutavad kogumise etapis isikustatud ja analüüsi etapis
+pseudonüümitud isikuandmeid ainult teaduslikel eesmärkidel.
+Kaasatud on ainult projekti liikmed, kes on teadlikud uuringu eesmärkidest. Väljaspool
+uuringugruppi olevad isikud ei pääse andmetele juurde.
 
-Uurijad ja uuringu rahastaja võivad kasutada pseudonüümitud isikuandmeid
-ainult teaduslikel eesmärkidel.
+## 7.1. Andmekaitsealased riskid
 
-Lisaks võib uuringu rahastaja anda välistele uurijatele (kes pole selle
-uuringuga seotud) ligipääsu pseudonüümitud andmetele. Kui väline uurija
-soovib kasutada uuringu andmeid eesmärkidel, mida pole siinkohal
-kirjeldatud, peab vastava uurimistöö kooskõlastama selleks pädevust
-omava eetikakomiteega.
+Oleme koostanud uuringu korraldamiseks mõjuhinnangu ning selle raames hinnanud riske
+uuritavate terviseandmete töötlemise kohta ning rakendanud turvaliseks andmetöötluseks
+tarvilikud meetmed.
 
-**4. Kuidas minu andmeid töödeldakse?**
+## 8. Kuidas minu andmeid töödeldakse?
 
-Uuringus kogutud andmeid töödeldakse vastavalt isikuandmete kaitse
-üldmäärusele ja Eesti isikuandmete kaitse seadusele, mis hakkas kehtima
-21. detsembrist 2018. Selle eest vastutab uuringu rahastaja.
+Teie andmeid koguvad ja töötlevad Tartu Ülikooli uurijad. Andmetöötlus toimub Tartu
+Ülikooli teadusarvutuste keskuse infrastruktuuril. Töötleme Teie isikuandmeid vastavalt
+teadustöö läbiviimise eesmärgile ning Teie poolt informeerimise ja teadliku
+nõusolekuvormiga nõustumise alusel.
 
-Teie andmeid koguvad ja töötlevad Google Cloudis Tartu Ülikooli uurijad.
-Teie pseudonüümitud andmeid võivad töödelda teised uurijad ainult Tartu
-Ülikooli uurijate loal.
+## 9. Kas oman ligipääsu ja võimalust parandada uuringu raames minu kohta kogutud ja töödeldud andmeid?
 
-Meil on õigus Teie isikuandmeid töödelda vastavalt teadustöö läbiviimise
-ning Teie poolt informeerimise ja teadliku nõusolekuvormiga nõustumise
-alustel.
-
-**5. Kas oman ligipääsu ja võimalust parandada uuringu raames minu kohta
-kogutud ja töödeldud andmeid?**
-
-Teil on õigus uurijatelt pärida, milliseid Teie kohta käivaid andmeid on
-kogutud ning milleks neid uuringu raames kasutatakse. Vastutavad uurijad
-on: professor Irja Lutsar <irja.lutsar@ut.ee> ja kaasprofessor Kristi
-Huik <kristi.huik@ut.ee>
+Teil on õigus uurijatelt pärida, milliseid Teie kohta käivaid andmeid on kogutud ning milleks
+neid uuringu raames kasutatakse. Vastutavad uurijad on: professor Irja Lutsar
+irja.lutsar@ut.ee ja kaasprofessor Kristi Huik kristi.huik@ut.ee
 
 Teil on õigus:
 
--   oma andmetele ligi pääseda ja neid kontrollida,
+- oma andmetele, mida meile küsimustikuga andsite, ligi pääseda ja neid kontrollida,
+- paluda kõik oma andmed kustutada kuni isikuandmete hävitamiseni 31.10.2026,
+- paluda oma ebaõigete andmete parandamist,
+- piirata oma andmete töötlemist,
+- võtta tagasi oma isikuandmete töötlemiseks antud nõusolek. Nõusoleku tagasivõtmise hetkest teie isikuandmed kustutatakse uuringu andmete juurest ja muudetakse need seeläbi anonüümseks.
 
--   paluda kõik oma andmed kustutada,
+## 10. Mis juhtub uuringu tulemustega?
 
--   paluda oma ebaõigete andmete parandamist,
+Uuringu tulemused avaldatakse isikustamata kujul regulaarselt Gripiradari veebilehel
+[https://gripiradar.ut.ee](https://gripiradar.ut.ee). Hiljem avaldatakse uuringu käigus saadud tulemused ja
+uuringu kirjeldus valdkonnale meditsiiniajakirjades. Uuringu põhjal valminud
+teaduspublikatsiooni koopia avaldatakse veebisaidil ja see on kättesaadav ka uurijatelt või
+uuringuga seotud personalilt.
 
--   piirata oma andmete töötlemist,
+Kõnealused veebilehed ja avaldatavad artiklid ei hõlma teavet, mis võimaldaks Teie isiku
+tuvastamist.
 
--   olla vastu oma isikuandmete töötlemisele,
+Pärast uuringu andmete anonümiseeritud kujule viimist jagatakse neid teiste teadlastega, nt
+InfluenzaNeti konsortsiumis.
 
--   võtta tagasi oma isikuandmete töötlemiseks antud nõusolek. Teie
-    isikuandmed, mis on kogutud enne nõusoleku tagasivõtmist,
-    säilitatakse, et tagada Teie osalemise ajal saadud tulemused ja
-    nende interpretatsioon. See on vajalik selleks, et saada võimalikult
-    andmete rohket informatsiooni, et hinnata tulevikus toimuvaid
-    muutusi.
+## 11. Kas minu andmeid kasutatakse ka muudel eesmärkidel, kui on mainitud uuringus, kus ma osalen?
 
-**6. Mis juhtub uuringu tulemustega?**
+Uuringu anonümiseeritud tulemusi kasutatakse ainult uuringu raames püstitatud teaduslikele
+küsimustele vastamiseks. Kõik lisauuringud või tulevikus läbiviidavad uuringud
+kooskõlastatakse vastava Eesti eetikakomiteega.
 
-Uuringu vahetulemused avaldatakse regulaarselt meie veebilehel. Hiljem
-avaldatakse uuringu käigus saadud tulemused ja uuringu kirjeldus
-valdkonnale meditsiiniajakirjades. Uuringu põhjal valminud
-teaduspublikatsiooni koopia avaldatakse veebisaidil ja see on
-kättesaadav ka uurijatelt või uuringuga seotud personalilt.
+## 12. Kui kaua minu andmeid säilitatakse?
 
-Kõnealused veebilehed ja avaldatavad artiklid ei hõlma teavet, mis
-võimaldaks Teie isiku tuvastamist.
+Isikut tuvastada võimaldavaid andmeid (kontaktandmed, IP-aadresside logid) säilitatakse
+kuni 31.10.2026. Isikuandmete säilitamine on vajalik andmete puhastamise ja vigade
+korrigeerimise faasis, sest vead võivad esineda ka projekti lõpus sisestatud andmetes. Selleks
+võib olla vajalik minna tagasi isikut tuvastavate andmeteni. Koodivõtit säilitatakse 1 aasta
+peale uuringu lõppu ehk kuni 31.10.2026
 
-**7. Kas minu andmeid kasutatakse ka muudel eesmärkidel, kui on mainitud
-uuringus, kus ma osalen?**
-
-Uuringu tulemusi kasutatakse ainult uuringu raames püstitatud
-teaduslikele küsimustele vastamiseks. Kõik lisauuringud või tulevikus
-läbiviidavad uuringud peavad toimumiseks saama kooskõlastuse vastavalt
-Eesti eetikakomiteelt.
-
-**8. Kui kaua minu andmeid säilitatakse?**
-
-Isikut tuvastada võimaldavaid andmeid (kontaktandmed, IP-aadresside
-logid) säilitatakse 2 aastat ja 7 kuud (1 aasta peale uuringu lõppu ehk
-kuni oktoober 2026). Pikemaajalisem säilitamine on vajalik andmete
-puhastamise ja vigade korrigeerimise faasis, sest vead võivad esineda ka
-projekti lõpus sisestatud andmetes. Selleks võib olla vajalik minna
-tagasi isikut tuvastavate andmeteni. Koodivõtit säilitatakse 2 aasta ja
-7 kuud (1 aasta peale uuringu lõppu ehk kuni oktoober 2026).
-
-Pärast uuringu lõppemist säilitatakse Teie pseudonüümitud andmeid
-vähemalt 25 aastat (oktoober 2051), et tulevikus teha vajadusel
-täpsemaid analüüse (vanuse või geograafilise jaotuse alusel) ja võrrelda
-muutuste dünaamikat. See vajadus võib tekkida, kui nähakse reaalajas
-muutusi (uus, muteerunud, uue sümptomaatikaga nn vana respiratoorne
-viirus) ja on vaja võrrelda riigis toimunud muutusi läbi aja. Näiteks on
-teada, et gripiepideemiad on perioodilised ning sümptomaatika jälgimine
-võib anda indikatsiooni viiruse muutuste kohta ja sellest tulenevalt
+Pärast uuringu lõppemist säilitatakse anonüümitud andmeid vähemalt 25 aastat eesmärgiga
+teha tulevikus vajadusel täpsemaid analüüse (vanuse või geograafilise jaotuse alusel) ja
+võrrelda muutuste dünaamikat. See vajadus võib tekkida, kui nähakse reaalajas muutusi (uus,
+muteerunud, uue sümptomaatikaga nn vana respiratoorne viirus) ja on vaja võrrelda riigis
+toimunud muutusi läbi aja. Näiteks on teada, et gripiepideemiad on perioodilised ning
+sümptomaatika jälgimine võib anda indikatsiooni viiruse muutuste kohta ja sellest tulenevalt
 saab kasutusele võtta erisuguseid meetmeid vastavalt vajadusele.
 
-**Privaatsuspoliitika muudatused**
+## Andmekaitsetingimuste muutmine
+Andmekaitsetingimusi võidakse muuta kui muutub midagi andmetöötluses. Kui see juhtub,
+avaldame muudetud andmekaitsetingimused, võtame teiega ühendust ning küsime teilt selles
+osas enne andmetöötluse alustamist uuesti nõusolekut.
 
-Privaatsuspoliitikat võidakse muuta. Kui see juhtub, avaldame muudetud
-privaatsuspoliitika ning informeerimise ja teadliku nõusoleku vormi ja
-küsime teilt uuesti nõusolekut.
+**Uuendatud 02.10.2024**
+
+
+
+
+
