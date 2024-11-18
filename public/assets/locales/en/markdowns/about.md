@@ -55,7 +55,7 @@ of the questionnaire takes less than one minute, and about 3 to 5 minutes if the
 symptoms. The completion of the questionnaire enables the researchers to monitor how certain
 symptoms are distributed and changes in these patterns over time in Estonia. In the future, the research
 conducted based on collected data from this study will also be useful for other viruses and infectious
-diseases. Detailed information about the survey data and participation can be found [here](https://gripiradar.ut.ee/privacy).
+diseases. Detailed information about the survey data and participation can be found [here](/privacy).
 
 ---
 
