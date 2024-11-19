@@ -31,7 +31,7 @@
   },
   "signup": {
     "title": "Sign up",
-    "info": "",
+    "info": "By clicking the **Sign up** button you agree to take part in the [Gripiradar study](https://gripiradar.ut.ee/study-consent)",
     "emailInputLabel": "Email",
     "emailInputPlaceholder": "Enter Email",
     "passwordInputLabel": "Password",
