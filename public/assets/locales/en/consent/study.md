@@ -1,7 +1,8 @@
 ## Informed consent
 
-By clicking the “I consent” button, you agree to participate in the Gripiradar study
+By clicking the "Sign up" button, you agree to participate in the Gripiradar study
 and accept that your data will be processed for this survey.
+
 The survey aims to identify symptoms that may indicate the presence of respiratory
 infectious diseases, e.g., influenza, the new coronavirus. Determining whether the
 number of people with symptoms is increasing or decreasing is important from the

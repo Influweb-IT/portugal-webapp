@@ -2,7 +2,7 @@
 
 ## Informeerimise ja teadliku nõusoleku vorm
 
-Klikkides nupul „Nõustun“ annate oma nõusoleku Gripiradari uuringus osalemiseks ja isikuandmete
+Klikkides nupul „Registreeru“ annate oma nõusoleku Gripiradari uuringus osalemiseks ja isikuandmete
 töötlemiseks.
 
 Uuringu eesmärgiks on tuvastada sümptomid, mis võivad viidata hingamisteede haiguste esinemisele, nt
