@@ -8,18 +8,6 @@
           "type": "internal",
           "itemKey": "contact",
           "value": "/contact"
-        },
-        {
-          "type": "external",
-          "itemKey": "twitter",
-          "value": "about:blank",
-          "iconClass": "fab fa-twitter"
-        },
-        {
-          "type": "external",
-          "itemKey": "facebook",
-          "value": "about:blank",
-          "iconClass": "fab fa-facebook"
         }
       ]
     },
