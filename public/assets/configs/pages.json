@@ -42,15 +42,20 @@
           "containerClassName": "min-vh-60",
           "columns": [
             {
-              "key": "loginCardCol",
-              "className": "col-12 col-md-6 col-lg-4 mt-3",
+              "key": "aboutCardCol",
+              "className": "col-12 col-lg-4 mt-3 min-h-478",
               "items": [
                 {
-                  "itemKey": "loginCard",
+                  "itemKey": "aboutCard",
                   "className": "h-100",
                   "config": {
-                    "type": "loginCard",
-                    "showInfoText": false
+                    "type": "imageCard",
+                    "showActionBtn": true,
+                    "action": {
+                      "type": "navigate",
+                      "value": "/about"
+                    },
+                    "imageSrc": "/images/about.jpg"
                   }
                 }
               ]
@@ -75,20 +80,15 @@
               ]
             },
             {
-              "key": "aboutCardCol",
-              "className": "col-12 col-lg-4 mt-3 min-h-478",
+              "key": "loginCardCol",
+              "className": "col-12 col-md-6 col-lg-4 mt-3",
               "items": [
                 {
-                  "itemKey": "aboutCard",
+                  "itemKey": "loginCard",
                   "className": "h-100",
                   "config": {
-                    "type": "imageCard",
-                    "showActionBtn": true,
-                    "action": {
-                      "type": "navigate",
-                      "value": "/about"
-                    },
-                    "imageSrc": "/images/about.jpg"
+                    "type": "loginCard",
+                    "showInfoText": false
                   }
                 }
               ]
