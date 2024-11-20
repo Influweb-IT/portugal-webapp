@@ -396,6 +396,32 @@
       ]
     },
     {
+      "path": "/survey-data",
+      "pageKey": "survey-data",
+      "rows": [
+        {
+          "key": "content",
+          "containerClassName": "my-3 min-vh-60",
+          "columns": [
+            {
+              "key": "pCol",
+              "className": "col-12 col-sm-10 col-md-8",
+              "items": [
+                {
+                  "itemKey": "survey-data",
+                  "className": "",
+                  "config": {
+                    "type": "markdown",
+                    "markdownUrl": "/markdowns/survey-data.md"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "path": "/study-consent",
       "pageKey": "study-consent",
       "rows": [

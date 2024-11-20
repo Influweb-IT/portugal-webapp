@@ -22,35 +22,4 @@ Kui osalejal tekib küsimusi uuritava õigustega seoses, siis palume pöörduda 
 
 #### Kuidas uuringuplatvorm töötab?
 
-Enne konto loomist platvormile uuritav või uuritava seaduslik esindaja tutvub uuringu lühikirjeldusega ja andmekaitsetingimustega ning nõustub informeerimise ja teadliku nõusoleku vormiga. Uuringus osalejad loovad platvormile konto kasutades e-maili aadressi. Platvormile konto loonud uuringus osalejatele kuvatakse vastuvõtuküsimustik, mis sisaldab teavet uuringus osalejate tausta (vanus, sugu, haridus jt) ja esinevate tervislike seisundite ja haiguste kohta. Vastuvõtuküsimustiku täitmine võtab aega 5-10 minutit. Vaktsineerimisküsimustik on vastatav 10-15 minutiga. Seejärel saadetakse uuringus osalejatele iga nädal e-mail, millega kutsutakse vastama iganädalasele küsimustikule, kus kogutakse teavet viimase nädala terviseseisundi muutuste / haigussümptomite esinemise kohta. Küsimustikule tuleb vastata ka siis, kui haigussümptomeid ei esine. Haigussümptomite puudumisel võtab küsimustikule vastamine keskmiselt aega alla ühe minuti. Haigussümptomite esinemisel võtab küsimustikule vastamine keskmiselt aega 3-5 minutit. Küsimustikule vastamine võimaldab uurijatel hinnata haigussümptomite levikut Eestis. Tulevikus saab kogutud andmete põhjal tehtud analüüsi kasutada ka teiste viirus- ja nakkushaiguste leviku käsitlemisel. Täpsem informatsioon uuringu andmete ja osalemise kohta on leitav [siit](/privacy).
-
----
-
-## Uuringu andmed 
-
-Andmeid kogutakse ja analüüsitakse ainult teadusliku uurimustöö raames ja ainult järgmistel eesmärkidel: 
-
-- viimaks läbi andmeanalüüsi nakkushaiguste leviku kohta Eestis ja Euroopas, 
-- avaldamaks statistilise analüüsi tulemusi, sh tulemuste esitamist graafiliste väljunditena,
-- tagades uuringus osalejatele uuringu tulemuste alast teavet (näiteks kui palju on grippi või mõnda muud nakkushaigust) ja jooksvalt kuvatakse uuringu tulemused uuringu kodulehel.
-
-Eelmainitud eesmärkidel võime töödelda järgmisi isikuandmeid: 
-
-- demograafilisi andmeid, kodu ja töökoha sihtnumbrit, andmeid pere koosseisu kohta,
-- nakkushaiguse esinemise riski tõstvat taustainfot, näiteks andmeid olemasolevate terviseseisundite kohta (andmeid, mis viitavad riskigruppi kuulumisele, mistõttu on soovitav vaktsineerida end gripi ja/või SARS-CoV-2 vastu), andmeid tööhõive ja elustiili kohta,
-- andmeid sümptomite kohta, mis on välja toodud iganädalaselt täidetavas sümptomite küsimustikus.
-
-Uuringu raames kogutud pseudonüümitud andmeid töötlevad Tartu Ülikooli uurijad ja Teie pseudonüümitud andmeid võivad töödelda teised uurijad ainult Tartu Ülikooli uurijate loal. Kinnitame, et isikuandmete töötlemine toimub vastavalt kehtivatele seadustele austades Teie õigusi ja andmete privaatsust. 
-
-Uuringu läbiviijad on: 
-
-- Tartu Ülikoolist professor Irja Lutsar irja.lutsar@ut.ee,
-- Kaasprofessor Kristi Huik kristi.huik@ut.ee
-
----
-
-## Uuringus osalemine
-
-Pärast registreerumist saate igal nädalal e-maili teel kutse küsimustikule vastamiseks. Teie osalemine kõnealuses uuringus on vabatahtlik ning võite igal ajal uuringust välja astuda ilma põhjendamata.
-
-
+Enne konto loomist platvormile uuritav või uuritava seaduslik esindaja tutvub uuringu lühikirjeldusega ja andmekaitsetingimustega ning nõustub informeerimise ja teadliku nõusoleku vormiga. Uuringus osalejad loovad platvormile konto kasutades e-maili aadressi. Platvormile konto loonud uuringus osalejatele kuvatakse vastuvõtuküsimustik, mis sisaldab teavet uuringus osalejate tausta (vanus, sugu, haridus jt) ja esinevate tervislike seisundite ja haiguste kohta. Vastuvõtuküsimustiku täitmine võtab aega 5-10 minutit. Vaktsineerimisküsimustik on vastatav 10-15 minutiga. Seejärel saadetakse uuringus osalejatele iga nädal e-mail, millega kutsutakse vastama iganädalasele küsimustikule, kus kogutakse teavet viimase nädala terviseseisundi muutuste / haigussümptomite esinemise kohta. Küsimustikule tuleb vastata ka siis, kui haigussümptomeid ei esine. Haigussümptomite puudumisel võtab küsimustikule vastamine keskmiselt aega alla ühe minuti. Haigussümptomite esinemisel võtab küsimustikule vastamine keskmiselt aega 3-5 minutit. Küsimustikule vastamine võimaldab uurijatel hinnata haigussümptomite levikut Eestis. Tulevikus saab kogutud andmete põhjal tehtud analüüsi kasutada ka teiste viirus- ja nakkushaiguste leviku käsitlemisel. Täpsem informatsioon uuringu andmete ja osalemise kohta on leitav [siit](/survey-data).
