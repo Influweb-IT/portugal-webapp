@@ -38,7 +38,7 @@
     "passwordInputPlaceholder": "Sisesta salasõna",
     "confirmPasswordInputLabel": "Kinnita salasõna",
     "confirmPasswordInputPlaceholder": "Sisesta salasõna uuesti",
-    "informedConsentCheckbox": "Nõustuge <1>privaatsuseeskirjadega</1>.*",
+    "informedConsentCheckbox": "Nõustuge <1>andmekaitsetingimustega</1>.*",
     "reCaptchaCookieCheckbox": "Nõustuge <1>reCAPTCHA avaldusega</1>.*",
     "signupBtn": "Registreeru",
     "loginLink": "Kas teil on juba konto? Logi sisse siit.",
