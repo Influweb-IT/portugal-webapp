@@ -6,6 +6,6 @@ This site uses tracking cookies, which monitor your behaviour during your visit 
 * Google account login status
 * The visitor’s browsing behaviour
 
-For more information about the use of this service and the processing of your data, see the [privacy policy](https://gripiradar.ut.ee/privacy).
+For more information about the use of this service and the processing of your data, see the [privacy policy](https://staging.gripiradar.ut.ee/privacy).
 
 By clicking on “I agree” you consent to the installation of tracking cookies and the processing of the above-mentioned data by Google.

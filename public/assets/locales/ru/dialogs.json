@@ -31,7 +31,7 @@
   },
   "signup": {
     "title": "Зарегистрироваться",
-    "info": "Нажимая кнопку **Зарегистрироваться**, вы соглашаетесь принять участие в [исследовании Gripiradar](https://gripiradar.ut.ee/study-consent)",
+    "info": "Нажимая кнопку **Зарегистрироваться**, вы соглашаетесь принять участие в [исследовании Gripiradar](https://staging.gripiradar.ut.ee/study-consent)",
     "emailInputLabel": "Электронная почта",
     "emailInputPlaceholder": "Введите адрес электронной почты",
     "passwordInputLabel": "Пароль",
