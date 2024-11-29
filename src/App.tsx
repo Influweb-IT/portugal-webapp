@@ -19,7 +19,7 @@ import * as navbarConfig from './configs/navbar.json';
 import * as pagesConfig from './configs/pages.json';
 
 const dateLocales = [
-  { code: 'ee', locale: et, format: 'dd/MM/yyyy' },
+  { code: 'et', locale: et, format: 'dd/MM/yyyy' },
   { code: 'ru', locale: ru, format: 'dd/MM/yyyy' },
 ];
 

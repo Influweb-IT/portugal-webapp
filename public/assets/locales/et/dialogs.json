@@ -170,7 +170,7 @@
     "defaultLanguageLabel": "Vaikimisi keel",
     "info": "Siin saate muuta vaikekeelt. Võimaluse korral saadetakse ka e-kirjad selles keeles.",
     "languages": {
-      "ee": "Eesti",
+      "et": "Eesti",
       "ru": "Vene",
       "en": "Inglise"
     },
