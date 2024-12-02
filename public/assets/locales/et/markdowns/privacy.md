@@ -101,7 +101,7 @@ Teil on õigus:
 ## 10. Mis juhtub uuringu tulemustega?
 
 Uuringu tulemused avaldatakse isikustamata kujul regulaarselt Gripiradari veebilehel
-[https://gripiradar.ut.ee](https://staging.gripiradar.ut.ee). Hiljem avaldatakse uuringu käigus saadud tulemused ja
+[https://gripiradar.ut.ee](https://gripiradar.ut.ee). Hiljem avaldatakse uuringu käigus saadud tulemused ja
 uuringu kirjeldus valdkonnale meditsiiniajakirjades. Uuringu põhjal valminud
 teaduspublikatsiooni koopia avaldatakse veebisaidil ja see on kättesaadav ka uurijatelt või
 uuringuga seotud personalilt.

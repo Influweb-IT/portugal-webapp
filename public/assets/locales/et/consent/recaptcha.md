@@ -9,7 +9,7 @@ nende jälgimisküpsiste abil kogub ja analüüsib, hõlmavad järgmist:
 - Külastaja sirvimiskäitumine
 
 Lisateabe saamiseks selle teenuse kasutamise ja teie andmete töötlemise kohta vaadake
-[andmekaitsetingimusi](https://staging.gripiradar.ut.ee/privacy).
+[andmekaitsetingimusi](https://gripiradar.ut.ee/privacy).
 
 Klikkides nupul „Nõustun“, annate nõusoleku jälgimisküpsiste paigaldamiseks ja eespool
 nimetatud andmete töötlemiseks Google’i poolt.

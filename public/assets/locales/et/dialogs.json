@@ -31,7 +31,7 @@
   },
   "signup": {
     "title": "Registreeru",
-    "info": "Klõpsates nuppu **Registreeru**, nõustute osalema [Gripiradari uuringus](https://staging.gripiradar.ut.ee/study-consent)",
+    "info": "Klõpsates nuppu **Registreeru**, nõustute osalema [Gripiradari uuringus](https://gripiradar.ut.ee/study-consent)",
     "emailInputLabel": "Email",
     "emailInputPlaceholder": "Sisesta email",
     "passwordInputLabel": "Salasõna",

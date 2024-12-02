@@ -99,7 +99,7 @@ You are entitled to:
 ## 10. What happens to the survey results?
 
 The results of the survey are regularly published in an impersonal form on the Gripiradar website
-[https://gripiradar.ut.ee](https://staging.gripiradar.ut.ee). Later, the results obtained during the study and the description of
+[https://gripiradar.ut.ee](https://gripiradar.ut.ee). Later, the results obtained during the study and the description of
 the study will be published in medical journals. A copy of the research publication resulting from
 the study is published on the website and is also available from the investigators or staff involved
 in the study.
