@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col-12 d-flex justify-content-center">
-    <h2>Koostöö partnerid</h2>
+    <h2>Koostööpartnerid</h2>
   </div>
 </div>
 <div class="row mb-2">

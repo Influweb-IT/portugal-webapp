@@ -18,6 +18,14 @@ $nav-tabs-link-active-color: white;
 $nav-link-color: white;
 $offcanvas-horizontal-width: 200px;
 
+#root .card-body {
+  display:none !important;
+}
+
+.modal-dialog .btn-link.text-uppercase {
+  text-transform: inherit !important;
+}
+
 .captcha-badge-alt {
   color: map-get($theme-colors, 'grey-7');
   & a {
