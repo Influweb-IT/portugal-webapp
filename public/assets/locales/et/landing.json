@@ -1,5 +1,5 @@
 {
-  "title": "Pealeht",
+  "title": "",
   "loginCard": {
     "title": "Logi sisse",
     "info": "",
@@ -17,13 +17,13 @@
   },
   "signupCard": {
     "imageAlt": "Osalemispilt",
-    "title": "Osale",
+    "title": "Osale uuringus",
     "body": "Osale uuringus.",
     "actionLabel": "Registreeru"
   },
   "aboutCard": {
     "imageAlt": "Pildi kohta",
-    "title": "Meist",
+    "title": "Rohkem infot uuringu kohta",
     "body": "Rohkem infot meie kohta.",
     "actionLabel": "Loe lisaks"
   },
@@ -55,7 +55,7 @@
     }
   },
   "teaserImage": {
-    "title": "Teretulemast Gripiradarisse",
-    "content": "Alustage uuringus osalemiseks registreerumisega"
+    "title": "Tere tulemast Gripiradarisse",
+    "content": "Siia on koondatud kogu info, et osaleda viirushaiguste uuringus. Selle jaoks pead end uuringule registreerima"
   }
 }

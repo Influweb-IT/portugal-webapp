@@ -1,5 +1,5 @@
 {
-  "title": "Home",
+  "title": "",
   "loginCard": {
     "title": "Login",
     "info": "",
@@ -23,7 +23,7 @@
   },
   "aboutCard": {
     "imageAlt": "About image",
-    "title": "About",
+    "title": "More information about the study",
     "body": "Find more about us.",
     "actionLabel": "Learn more"
   },
@@ -56,6 +56,6 @@
   },
   "teaserImage": {
     "title": "Welcome to Gripiradar",
-    "content": "Get started by signing up to participate in the study"
+    "content": "Here you can find all the information to participate in a viral disease study. To do so, you need to register for the study"
   }
 }
