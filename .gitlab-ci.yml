@@ -4,4 +4,4 @@ stages:
   - deploy
 
 include:
-  - remote: "https://gitlab.hpc.ut.ee/templates/gitlab-actions/.gitlab-ci-kaniko-build.yml"
+  - remote: "https://gitlab.hpc.ut.ee/templates/gitlab-actions/-/raw/main/.gitlab-ci-kaniko-build.yml"
