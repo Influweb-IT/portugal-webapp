@@ -1,0 +1,8 @@
+stages:
+  - .pre
+  - build
+  - deploy
+
+include:
+  - project: "https://gitlab.hpc.ut.ee/templates/gitlab-actions"
+    file: ".gitlab-ci-kaniko-build.yml"
