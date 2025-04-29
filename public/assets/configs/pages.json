@@ -344,6 +344,32 @@
       ]
     },
     {
+      "path": "/results",
+      "pageKey": "results",
+      "rows": [
+        {
+          "key": "contentRow",
+          "containerClassName": "my-3 min-vh-60",
+          "columns": [
+            {
+              "key": "contentCol",
+              "className": "col-12",
+              "items": [
+                {
+                  "itemKey": "results",
+                  "config": {
+                    "type": "markdown",
+                    "markdownUrl": "markdowns/results.md",
+                    "flavor": "chart-renderer"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "path": "/contact",
       "pageKey": "contact",
       "rows": [
