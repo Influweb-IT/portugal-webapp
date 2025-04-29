@@ -4,9 +4,4 @@ stages:
   - deploy
 
 include:
-  - component: gitlab.hpc.ut.ee/ci-cd-components/kaniko-build/kaniko-build-external-registry@1.3.0
-    inputs:
-      dockerfile: $CI_PROJECT_DIR/Dockerfile
-      image_name: gcr.io/kaniko-project/executor:slim
-      registry_address: "registry.hpc.ut.ee"
-      registry_path: "gripiradar/$CI_COMMIT_BRANCH"
+  - remote: "https://gitlab.hpc.ut.ee/templates/gitlab-actions/.gitlab-ci-kaniko-build.yml"
