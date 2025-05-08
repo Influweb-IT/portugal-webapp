@@ -1998,6 +1998,11 @@
   dependencies:
     regenerator-runtime "^0.13.11"
 
+"@babel/runtime@^7.25.6":
+  version "7.27.1"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.27.1.tgz#9fce313d12c9a77507f264de74626e87fd0dc541"
+  integrity sha512-1x3D2xEk2fRo3PAhwQwu5UubzgiVWSXTBfWpVd2Mx2AzRqJuDJCsgaDVZ7HB5iGzDW1Hl1sWN2mFyKjmR9uAog==
+
 "@babel/runtime@^7.8.4":
   version "7.10.4"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.4.tgz#a6724f1a6b8d2f6ea5236dbfe58c7d7ea9c5eb99"
@@ -2290,6 +2295,19 @@
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
+
+"@iframe-resizer/core@5.3.1":
+  version "5.3.1"
+  resolved "https://registry.yarnpkg.com/@iframe-resizer/core/-/core-5.3.1.tgz#62f1289d645ae9c3062644a6969dd236c415cf97"
+  integrity sha512-ZGZN/BY4s0Bb4oWOwN+zNwgIGwSZmu+eO/jXX/Rk/HPlQJcyfPR6/BOmSrhlHJ/McVdbWi3rqWA0I4Z3Ie+N3w==
+
+"@iframe-resizer/react@5.3.1":
+  version "5.3.1"
+  resolved "https://registry.yarnpkg.com/@iframe-resizer/react/-/react-5.3.1.tgz#293b15164b872a03bea8d370e81eb58b06f4c243"
+  integrity sha512-eSP6Nqhn7/r5++4y8banJGWBPonp24UBy9PPcYmZMO1OztrHmBGJC4H8JzoJlCVlm0vXwpK9gL5zko7sj/FJuA==
+  dependencies:
+    "@babel/runtime" "^7.25.6"
+    "@iframe-resizer/core" "5.3.1"
 
 "@influenzanet/case-web-app-core@2.7.8":
   version "2.7.8"

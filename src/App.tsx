@@ -18,6 +18,9 @@ import * as headerConfig from './configs/header.json';
 import * as navbarConfig from './configs/navbar.json';
 import * as pagesConfig from './configs/pages.json';
 
+import ResultsIFrame from "./components/ResultsIFrame";
+const extensions = [{name: "results-iframe", component: ResultsIFrame}];
+
 const dateLocales = [
   { code: 'et', locale: et, format: 'dd/MM/yyyy' },
   { code: 'ru', locale: ru, format: 'dd/MM/yyyy' },
@@ -33,6 +36,7 @@ const App: React.FC = () => {
     <React.Fragment>
       <AppCore
         appConfig={appConfig_}
+        extensions={extensions}
         headerConfig={headerConfig as HeaderConfig}
         navbarConfig={navbarConfig as NavbarConfig}
         pagesConfig={pagesConfig as PagesConfig}
