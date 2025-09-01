@@ -358,10 +358,8 @@
                 {
                   "itemKey": "results",
                   "config": {
-                    "type": "extension",
-                    "config": {
-                      "type": "results-iframe"
-                    }
+                    "type": "markdown",
+                    "markdownUrl": "/markdowns/about.md"
                   }
                 }
               ]

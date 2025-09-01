@@ -1,17 +1,13 @@
 {
-  "instanceId": "default",
+  "instanceId": "portugal",
   "languages": [
-    {
-      "code": "et",
-      "itemKey": "et"
-    },
-    {
-      "code": "ru",
-      "itemKey": "ru"
-    },
     {
       "code": "en",
       "itemKey": "en"
+    },
+    {
+      "code": "pt",
+      "itemKey": "pt"
     }
   ],
   "avatars": [

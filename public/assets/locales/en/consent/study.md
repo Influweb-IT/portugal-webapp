@@ -1,6 +1,6 @@
 ## Informed consent
 
-By clicking the "Sign up" button, you agree to participate in the Gripiradar study
+By clicking the "Sign up" button, you agree to participate in the TODO study
 and accept that your data will be processed for this survey.
 
 The survey aims to identify symptoms that may indicate the presence of respiratory
@@ -33,8 +33,7 @@ guardian.
     - For the sake of clarity, consent for anyone aged 18 or over must
 always be granted by the person concerned and not by anyone else.
 - If you want to receive further explanations about the study before giving
-your consent, you can contact Professor Irja Lutsar at irja.lutsar@ut.ee and
-Associate Professor Kristi Huik at kristi.huik@ut.ee .
+your consent, you can contact TODO
 
 I agree to participate in the study.
 

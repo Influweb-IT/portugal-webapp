@@ -9,8 +9,7 @@ import {
   PagesConfig,
 } from '@influenzanet/case-web-app-core';
 
-import { et } from 'date-fns/locale';
-import { ru } from 'date-fns/locale';
+import { pt } from 'date-fns/locale';
 
 import * as appConfig from './configs/appConfig.json';
 import * as footerConfig from './configs/footer.json';
@@ -22,8 +21,7 @@ import ResultsIFrame from "./components/ResultsIFrame";
 const extensions = [{name: "results-iframe", component: ResultsIFrame}];
 
 const dateLocales = [
-  { code: 'et', locale: et, format: 'dd/MM/yyyy' },
-  { code: 'ru', locale: ru, format: 'dd/MM/yyyy' },
+  { code: 'pt', locale: pt, format: 'dd/MM/yyyy' },
 ];
 
 let appConfig_: AppConfig = { ...appConfig };

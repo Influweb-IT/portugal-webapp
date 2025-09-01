@@ -37,7 +37,7 @@ jobs:
     environment: ${{ inputs.environment }}
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - run: git fetch --prune --unshallow --tags
     - name: Move sample .env-local
       if: ${{ github.repository_owner == 'influenzanet' }}

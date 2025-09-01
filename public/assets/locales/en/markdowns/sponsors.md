@@ -4,12 +4,6 @@
   </div>
 </div>
 <div class="row mb-2">
-  <a class="col-md d-flex justify-content-center" href="https://ut.ee/en" target="_blank">
-    <img class="img-fluid" src="assets/images/tartu_logo_en.png" alt="UT logo" title="UT" />
-  </a>
-  <a class="col-md d-flex justify-content-center" href="https://www.terviseamet.ee/en" target="_blank">
-    <img class="img-fluid" src="assets/images/terviseamet_en.png" alt="Terviseamet logo" title="UT" />
-  </a>
   <a class="col-md  d-flex justify-content-center" href="https://verdiproject.org" target="_blank">
     <img class="img-fluid" src="assets/images/verdi_logo.jpg" alt="Verdi logo" title="Verdi" />
   </a>
