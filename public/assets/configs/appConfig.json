@@ -2,14 +2,6 @@
   "instanceId": "default",
   "languages": [
     {
-      "code": "et",
-      "itemKey": "et"
-    },
-    {
-      "code": "ru",
-      "itemKey": "ru"
-    },
-    {
       "code": "en",
       "itemKey": "en"
     }

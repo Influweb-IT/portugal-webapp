@@ -22,8 +22,7 @@ import ResultsIFrame from "./components/ResultsIFrame";
 const extensions = [{name: "results-iframe", component: ResultsIFrame}];
 
 const dateLocales = [
-  { code: 'et', locale: et, format: 'dd/MM/yyyy' },
-  { code: 'ru', locale: ru, format: 'dd/MM/yyyy' },
+  { code: 'pt', locale: et, format: 'dd/MM/yyyy' },
 ];
 
 let appConfig_: AppConfig = { ...appConfig };

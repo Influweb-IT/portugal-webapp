@@ -28,16 +28,6 @@
       "items": [
         {
           "type": "language",
-          "itemKey": "et",
-          "value": "et"
-        },
-        {
-          "type": "language",
-          "itemKey": "ru",
-          "value": "ru"
-        },
-        {
-          "type": "language",
           "itemKey": "en",
           "value": "en"
         }
