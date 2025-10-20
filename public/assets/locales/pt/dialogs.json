@@ -1,0 +1,221 @@
+{
+  "loadingMsg": "A carregar",
+  "login": {
+    "credentials": {
+      "title": "Início de sessão",
+      "info": "",
+      "emailInputLabel": "E-mail",
+      "emailInputPlaceholder": "Introduzir endereço de e-mail",
+      "passwordInputLabel": "Palavra-passe",
+      "passwordInputPlaceholder": "Introduzir palavra-passe",
+      "rememberMeLabel": "Manter-me autenticado",
+      "btn": "Início de sessão",
+      "passwordForgottenBtn": "Esqueci-me da palavra-passe",
+      "signupBtn": "Ainda não tem conta? Registe-se."
+    },
+    "verificationCode": {
+      "title": "Verifique a sua identidade",
+      "info": "Introduza por favor o código de seis dígitos que enviámos para o seu endereço de e-mail. Caso não o encontre na sua caixa de entrada, verifique também a caixa de SPAM ou envie um novo código clicando no botão abaixo.",
+      "codeInputLabel": "Código de verificação de 6 dígitos",
+      "codeInputPlaceholder": "Introduza o seu código",
+      "submitBtn": "Submeter",
+      "resendBtn": "Enviar um novo código"
+    },
+    "errors": {
+      "accountOrPassword": "Algo correu mal. Verifique o seu endereço de e-mail e palavra-passe.",
+      "wrongCode": "Código incorreto. Verifique o código que lhe enviámos por e-mail.",
+      "newCodeSent": "Código incorreto. Enviámos um novo código por e-mail.",
+      "rateLimit": "Terá que aguardar antes de poder solicitar um novo código.",
+      "unknown": "Algo correu mal. Verifique as suas informações ou tente novamente mais tarde."
+    }
+  },
+  "signup": {
+    "title": "Registe-se",
+    "info": "Ao clicar no botão ** Registe-se** indica que aceita participar no [estudo TODO](https://TODO/study-consent)",
+    "emailInputLabel": "E-mail",
+    "emailInputPlaceholder": "Introduzir endereço de e-mail",
+    "passwordInputLabel": "Palavra-passe",
+    "passwordInputPlaceholder": "Introduzir palavra-passe",
+    "confirmPasswordInputLabel": "Confirme a sua palavra-passe",
+    "confirmPasswordInputPlaceholder": "Introduzir palavra-passe novamente",
+    "informedConsentCheckbox": "Aceita a <1>política de privacidade</1>.*",
+    "reCaptchaCookieCheckbox": "Aceita <1>declaração reCAPTCHA</1>.*",
+    "signupBtn": "Registe-se",
+    "loginLink": "Já tem conta? Faça o início de sessão aqui.",
+    "reCaptchaLinks": "Este site está protegido pelo reCAPTCHA e aplica-se a <1>Política de Privacidade</1> e os <3>Termos de Serviço </3> da Google.",
+    "errors": {
+      "emailRules": "O endereço de e-mail que introduziu não é válido.",
+      "passwordRules": "A sua palavra-passe deve ter pelo menos 8 caracteres e conter 3 dos 4 elementos seguintes: letras minúsculas, letras maiúsculas, números, sinais de pontuação.",
+      "passwordMatch": "As palavras-passe não são iguais",
+      "invalidEmail": "O seu endereço de e-mail parece estar incorreto",
+      "userCreationFailed": "Algo correu mal.",
+      "unknown": "Algo correu mal."
+    }
+  },
+  "privacyConsent": {
+    "title": "Política de privacidade",
+    "acceptBtn": "Eu consinto",
+    "cancelBtn": "Eu não consinto"
+  },
+  "recaptchaConsent": {
+    "title": "Consentimento ReCaptcha",
+    "acceptBtn": "Concordo",
+    "cancelBtn": "Eu não concordo"
+  },
+  "signupSuccess": {
+    "title": "Boas-vindas!",
+    "successMsg": "Está quase registado(a)! \n\n Primeiro, confirme por favor o seu endereço de e-mail clicando no link no e-mail de confirmação que lhe enviámos. \n Se não encontrar o e-mail, verifique primeiro a sua caixa de spam. Também pode solicitar um novo e-mail abaixo.",
+    "emailSentMsg": "O e-mail foi enviado",
+    "msgForVerifiedAccount": "Se acabou de verificar a sua conta, pode utilizar o botão abaixo para recarregar esta página.",
+    "reloadUser": "Confirme a verificação",
+    "resendVerificationEmailBtn": "Reenviar e-mail de confirmação",
+    "wrongEmailBtn": "Utilizou o endereço de e-mail errado? Então altere-o aqui.",
+    "errors": {
+      "unknown": "Algo correu mal.",
+      "verifyEmailFirst": "Precisa de verificar primeiro o seu endereço de e-mail clicando no link no e-mail de registo. Caso não encontre o e-mail, utilize o botão para enviar um novo e-mail."
+    }
+  },
+  "passwordForgotten": {
+    "title": "Alterar a palavra-passe",
+    "info": "Introduza o endereço de e-mail da sua conta",
+    "successMessage": "Siga o link no e-mail que lhe enviámos para o endereço abaixo. \n Se não recebeu um e-mail, verifique a sua caixa de spam ou tente novamente, se possível.",
+    "emailInputLabel": "E-mail",
+    "emailInputPlaceholder": "Introduzir endereço de e-mail",
+    "submitBtn": "Alterar a palavra-passe",
+    "errors": {
+      "invalidId": "Algo correu mal. Verifique o seu endereço de e-mail ou ligação. \n Poderá tentar novamente quando o botão estiver novamente visível.",
+      "unknown": "Algo correu mal. Verifique as suas informações ou tente novamente mais tarde."
+    }
+  },
+  "changeEmail": {
+    "title": "Alterar endereço de e-mail",
+    "emailInputLabel": "Novo endereço de e-mail",
+    "emailInputPlaceholder": "Novo endereço de e-mail",
+    "passwordInputLabel": "Palavra-passe",
+    "passwordInputPlaceholder": "Palavra-passe",
+    "info": "Pretende utilizar um endereço de e-mail diferente? Altere o seu endereço de e-mail clicando no botão abaixo. Nota: não poderá voltar a iniciar sessão sem confirmar o endereço de e-mail.",
+    "cancelBtn": "Cancelar",
+    "confirmBtn": "Alterar endereço de e-mail",
+    "errors": {
+      "wrongPasswordOrAccountId": "Algo correu mal. Verifique as suas informações. (endereço de e-mail ou palavra-passe podem estar incorretos)",
+      "wrongEmailFormat": "Não é um endereço de e-mail válido.",
+      "unknown": "Algo correu mal. Verifique as suas informações ou tente novamente mais tarde."
+    },
+    "warningDialog": {
+      "title": "CConfirme novo endereço de e-mail",
+      "content": "Nota: Não poderá voltar a iniciar sessão até confirmar o novo endereço de e-mail através do link no e-mail de confirmação que lhe enviámos.",
+      "cancelBtn": "Cancelar",
+      "confirmBtn": "Confirmar"
+    },
+    "successDialog": {
+      "title": "Endereço de e-mail alterado",
+      "content": "Sucesso! O seu endereço de e-mail foi alterado.",
+      "btn": "Ok"
+    }
+  },
+  "changePassword": {
+    "title": "Alterar palavra-passe",
+    "currentPasswordInputLabel": "Palavra-passe atual",
+    "currentPasswordInputPlaceholder": "Palavra-passe atual",
+    "newPasswordInputLabel": "Nova palavra-passe",
+    "newPasswordInputPlaceholder": "Nova palavra-passe",
+    "confirmPasswordInputLabel": "Confirmar nova palavra-chave",
+    "confirmPasswordInputPlaceholder": "Confirmar nova palavra-chave",
+    "info": "Por razões de segurança, deve primeiro fornecer a sua palavra-passe atual.",
+    "cancelBtn": "Cancelar",
+    "confirmBtn": "Confirmar",
+    "errors": {
+      "wrongCurrentPassword": "Palavra-passe incorreta",
+      "passwordRules": "A sua palavra-passe deve ter pelo menos 8 caracteres e conter 3 dos 4 elementos seguintes: letras minúsculas, letras maiúsculas, números, sinais de pontuação.",
+      "passwordMatch": "As palavras-passe não são iguais",
+      "unknown": "Algo correu mal. Verifique as suas informações ou tente novamente mais tarde."
+    },
+    "successDialog": {
+      "title": "Palavra-passe alterada",
+      "content": "Sucesso! A sua palavra-passe foi alterada",
+      "btn": "Ok"
+    }
+  },
+  "manageProfiles": {
+    "title": "Perfis",
+    "mainProfileLabel": "Eu",
+    "cancelBtn": "Cancelar",
+    "newProfileBtn": "Novo perfil para filho(a)",
+    "warningDialog": {
+      "title": "Eliminar perfil",
+      "content": "A remoção do perfil {{ alias }} não pode ser anulada.",
+      "cancelBtn": "Cancelar",
+      "confirmBtn": "Eliminar perfil"
+    }
+  },
+  "editProfile": {
+    "new": {
+      "title": "Novo perfil",
+      "cancelBtn": "Cancelar",
+      "submitBtn": "Criar um perfil para filho(a)"
+    },
+    "edit": {
+      "title": "Editar perfil",
+      "cancelBtn": "Cancelar",
+      "submitBtn": "Guardar alterações"
+    },
+    "aliasInputLabel": "Utilizador",
+    "aliasInputPlaceholder": "Utilizador",
+    "consentCheckboxLabel": "Consentimento",
+    "consentCheckboxText": "Só pode criar um perfil e preencher questionários para si ou como pai ou representante legal do seu filho que ainda não tenha atingido a idade de 18 anos",
+    "avatarSelectorLabel": "Escolha uma foto"
+  },
+  "changeLanguage": {
+    "title": "Idiomas",
+    "defaultLanguageLabel": "Idioma predefinido",
+    "info": "Pode alterar o idioma predefinido aqui. Se disponível, os e-mails também serão enviados neste idioma.",
+    "languages": {
+      "et": "Estónio",
+      "ru": "Russo",
+      "en": "Inglês"
+    },
+    "cancelBtn": "Cancelar",
+    "confirmBtn": "Confirmar idioma",
+    "errors": {
+      "emtyLanguages": "Falha ao carregar os idiomas. Tente novamente mais tarde",
+      "unknown": "Algo correu mal. Verifique as suas informações ou tente novamente mais tarde."
+    },
+    "successDialog": {
+      "title": "Idioma alterado",
+      "content": "Sucesso! O idioma predefinido foi alterado.",
+      "btn": "Ok"
+    }
+  },
+  "changeNotifications": {
+    "title": "Definições de e-mail",
+    "info": "Pode optar por deixar de receber o e-mail de lembrete semanal ou o boletim informativo.",
+    "weeklyReminder": {
+      "label": "E-mail de lembrete semanal",
+      "on": "Gostaria de receber o e-mail de lembrete semanal",
+      "off": "Não quero receber o e-mail de lembrete semanal"
+    },
+    "newsletter": {
+      "label": "E-mail para todos os participantes. Por vezes, será necessário enviar um e-mail a todos os participantes com informações sobre o estudo.",
+      "on": "Gostaria de receber estes e-mails enviados a todos os participantes",
+      "off": "Não quero receber estes e-mails enviados a todos os participantes"
+    },
+    "cancelBtn": "Cancelar",
+    "submitBtn": "Submeter",
+    "successDialog": {
+      "title": "As definições foram alteradas",
+      "content": "Concluído! As suas configurações de e-mail foram alteradas.",
+      "btn": "Ok"
+    }
+  },
+  "deleteAccount": {
+    "title": "Desistir da participação no estudo",
+    "info": "Tem a certeza de que pretende eliminar a sua conta? \nEsta ação não pode ser anulada.",
+    "cancelBtn": "Cancelar",
+    "confirmBtn": "Desistir",
+    "successDialog": {
+      "title": "Conta eliminada",
+      "content": "Concluído! A sua conta foi apagada. Agradecemos a sua contribuição. Pode sempre voltar a participar criando uma nova conta.",
+      "btn": "Ok"
+    }
+  }
+}

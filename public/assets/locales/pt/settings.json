@@ -1,0 +1,56 @@
+{
+  "title": "Configurações",
+  "account": {
+    "title": "Configurações de conta",
+    "email": {
+      "title": "Endereço de e-mail",
+      "info": "Pretende utilizar um endereço de email diferente? Altere o seu endereço de email clicando no botão abaixo. Nota: não poderá voltar a iniciar sessão sem confirmar o endereço de e-mail."
+    },
+    "password": {
+      "title": "Palavra-passe",
+      "info": "Deseja alterar a palavra-passe? Altere a sua palavra-passe clicando no botão abaixo. Nota: precisará da sua palavra-passe atual."
+    },
+    "profiles": {
+      "title": "Perfis",
+      "info": "Edite o seu próprio perfil ou, como pai ou representante legal, adicione o perfil do seu filho com idade até aos 17 anos.",
+      "btn": "{{conta}} perfil",
+      "btn_plural": "{{conta}} perfis",
+      "btn_other": "{{conta}} perfis"
+    }
+  },
+  "communication": {
+    "title": "Configurações de comunicação",
+    "emailReminders": {
+      "title": "E-mail e boletim informativo semanal",
+      "info": "Pode optar por deixar de receber o e-mail de lembrete semanal ou o boletim informativo.",
+      "btnManageNotifications": "Alterar as configurações"
+    },
+    "defaultLanguage": {
+      "title": "Idioma",
+      "info": "Pode alterar o idioma aqui.",
+      "languages": {
+        "et": "Estónio",
+        "ru": "Russo",
+        "en": "Inglês"
+      }
+    }
+  },
+  "deletion": {
+    "title": "Cancelar subscrição/retirar consentimento",
+    "warning": "Se cancelar a subscrição/retirar o consentimento, os dados da sua conta serão eliminados. Após a eliminação da conta, deixaremos de poder ligar as informações que forneceu (como a idade e os sintomas) a si.",
+    "deleteBtn": "Cancelar subscrição"
+  },
+  "references": {
+    "title": "Precisa de assistência?",
+    "privacyStatementLink": "Política de privacidade",
+    "contactLink": "Contacto"
+  },
+  "systemInfo": {
+    "title": "Informações do sistema",
+    "appNameLabel": "Nome da aplicação",
+    "appName": "Gripenet",
+    "versionLabel": "Versão",
+    "browserNameLabel": "Nome do navegador",
+    "browserVersionLabel": "Versão do navegador"
+  }
+}

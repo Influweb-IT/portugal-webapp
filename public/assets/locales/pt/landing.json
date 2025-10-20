@@ -1,0 +1,61 @@
+{
+  "title": "",
+  "loginCard": {
+    "title": "Início de sessão",
+    "info": "",
+    "emailInputLabel": "E-mail",
+    "emailInputPlaceholder": "Introduzir endereço de e-mail",
+    "passwordInputLabel": "Palavra-passe",
+    "passwordInputPlaceholder": "Introduzir palavra-passe",
+    "rememberMeLabel": "Manter-me autenticado",
+    "btn": "Início de sessão",
+    "passwordForgottenBtn": "Esqueci-me da palavra-passe",
+    "signupBtn": "Ainda não tem conta? Registe-se aqui."
+  },
+  "logoCredits": {
+    "title": "Os nosso parceiros"
+  },
+  "signupCard": {
+    "imageAlt": "Imagem de participação",
+    "title": "Participar",
+    "body": "Participar nos questionários.",
+    "actionLabel": "Inscrever-se"
+  },
+  "aboutCard": {
+    "imageAlt": "Sobre a imagem",
+    "title": "Mais informações sobre o estudo",
+    "body": "Saiba mais sobre nós.",
+    "actionLabel": "Saber mais"
+  },
+  "references": {
+    "title": "Ler mais",
+    "aboutLink": "Acerca de"
+  },
+  "settingsReferences": {
+    "title": "Configurações rápidas",
+    "profileSettings": "Gerir Perfis",
+    "communicationSettings": "Lembretes por e-mail",
+    "languageSettings": "Idiomas"
+  },
+  "supportReferences": {
+    "title": "Apoie-nos",
+    "supportLink": "Informações"
+  },
+  "surveyList": {
+    "requiredSurveys": {
+      "title": "Questionários a preencher",
+      "info": "Os diferentes questionários para o estudo podem ser encontrados aqui.",
+      "successMsg": "Obrigado! Respondeu a todos os questionários. Esperamos voltar a receber o seu contacto na próxima semana. Caso pretenda fornecer novas informações antes, poderá responder novamente ao questionário dentro de algumas horas."
+    },
+    "optionalSurveys": {
+      "title": "Alterar informação de antecedentes",
+      "info": "Se a sua situação mudou, pode preencher novamente o(s) questionário(s) de antecedentes abaixo. Infelizmente, não podemos mostrar as informações que introduziu da última vez, nem permitir que altere as suas respostas apenas para perguntas específicas.",
+      "hideBtn": "Ocultar",
+      "showBtn": "A sua informação de antecedentes sofreu alterações?"
+    }
+  },
+  "teaserImage": {
+    "title": "Bem-vindo ao estudo",
+    "content": "Aqui encontra todas as informações para participar num estudo sobre infeções respiratórias, como gripe ou COVID-19. Para isso, precisa de se registar no estudo"
+  }
+}

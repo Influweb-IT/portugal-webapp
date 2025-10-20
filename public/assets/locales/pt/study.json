@@ -1,0 +1,24 @@
+{
+  "title": "Estudos",
+  "topImage": {
+    "title": "",
+    "content": "Ao participar, está a contribuir para uma melhor compreensão da distribuição das infeções respiratórias na população, como a gripe ou a COVID-19, permitindo-nos observar rapidamente a situação atual."
+  },
+  "requiredSurveys": {
+    "title": "Questionários por completar",
+    "info": "Os diferentes questionários para o estudo podem ser encontrados aqui.",
+    "successMsg": "Obrigado! Respondeu a todos os questionários. Esperamos voltar a receber o seu contacto na próxima semana. Caso pretenda fornecer novas informações antes, poderá responder novamente ao questionário dentro de algumas horas."
+  },
+  "optionalSurveys": {
+    "title": "Alterar informação de antecedentes",
+    "info": " Se a sua situação mudou, pode preencher novamente o(s) questionário(s) de antecedentes abaixo. Infelizmente, não podemos mostrar as informações que introduziu da última vez, nem permitir que altere as suas respostas apenas para perguntas específicas.",
+    "showBtn": "A sua informação de antecedentes sofreu alterações?",
+    "hideBtn": "Ocultar"
+  },
+  "quickSettingsBox": {
+    "title": "Configurações",
+    "manageProfiles": "Adicione o perfil do seu filho ou altere o seu próprio perfil",
+    "emailReminders": "Alterar as definições de comunicação",
+    "language": "Idioma"
+  }
+}
