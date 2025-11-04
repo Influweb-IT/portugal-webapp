@@ -1,0 +1,125 @@
+{
+  "title": "Perguntas frequentes",
+  "accordionControls": {
+    "open": "Saber mais",
+    "close": "Ocultar"
+  },
+  "topFaq": {
+    "title": "Perguntas frequentes sobre o Gripenet",
+    "content": ""
+  },
+  "signupCard": {
+    "imageAlt": "Imagem de participação",
+    "title": "Participar",
+    "body": "Ajude-nos a manter o coronavírus sob vigilância. Informe semanalmente se apresentar algum sintoma.",
+    "actionLabel": "Subscrever"
+  },
+  "surveyCard": {
+    "imageAlt": "Informe agora!",
+    "title": "Informe agora!",
+    "body": "Informe se apresenta algum sintoma.",
+    "actionLabel": "Questionários"
+  },
+  "faq": [
+    {
+      "title": "Quem criou o Gripenet?",
+      "content": "A Gripenet faz parte da Influenzanet, uma rede europeia que liga várias universidades e agências governamentais que gerem plataformas semelhantes. A Fundação ISI coordena esta rede. O objetivo da Influenzanet é mapear e monitorizar os sintomas de infeções, como o novo coronavírus (COVID-19) e a gripe, entre a população em geral na Europa. Os dados são utilizados para investigação científica sobre infeções e, atualmente, sobre o novo coronavírus."
+    },
+    {
+      "title": "A quem se destina o Gripenet?",
+      "content": "Qualquer pessoa que viva em Portugal e tenha acesso à internet pode participar no Gripenet, voluntariamente e durante o tempo que desejar."
+    },
+    {
+      "title": "Como posso participar no Gripenet?",
+      "content": "Pode participar inscrevendo-se com um endereço de e-mail e uma palavra-passe pessoal."
+    },
+    {
+      "title": "Porque devo participar?",
+      "content": "Para obter a melhor imagem possível da situação atual, é importante que todos participem, independentemente do historial ou dos fatores de risco. Alguém que nunca fica doente é tão capaz de adoecer como alguém que fica doente com frequência. Uma participação alargada pode também ajudar-nos a compreender porque é que algumas pessoas contraem infeções com menor frequência."
+    },
+    {
+      "title": "Não sou português, mas vivo em Portugal: posso participar no Gripenet?",
+      "content": "Com certeza! O Gripenet está interessado na situação em Portugal. Qualquer pessoa que viva em Portugal pode, portanto, participar, mesmo que seja de outra nacionalidade."
+    },
+    {
+      "title": "Sou português, mas vivo no estrangeiro: posso participar?",
+      "content": "Não. Apenas pessoas que vivem em Portugal podem participar neste estudo. No entanto, se vive na Alemanha, Austrália, Áustria, Suíça, Bélgica, França, Itália, México, Reino Unido ou Suécia, existem estudos semelhantes nestes países."
+    },
+    {
+      "title": "Tomei a vacina contra a gripe este ano. Posso participar?",
+      "content": "O estudo é dirigido a todos. Não importa se estão vacinados contra a gripe ou não."
+    },
+    {
+      "title": "Quanto tempo demora a preencher o questionário Gripenet?",
+      "content": "O registo e o preenchimento do primeiro questionário demoram cerca de 5 minutos. O preenchimento do questionário semanal em cada semana demora entre 30 segundos (se não apresentar sintomas) e alguns minutos (se tiver sintomas ou os tiver apresentado durante a semana)."
+    },
+    {
+      "title": "Quanto tempo durará o estudo?",
+      "content": "O estudo começou há cerca de treze anos e não tem data de término, mas pode deixar de participar a qualquer momento cancelando a inscrição no questionário semanal. Pode voltar a inscrever-se mais tarde, se mudar de ideias e quiser voltar a participar."
+    },
+    {
+      "title": "Participar no estudo terá algum custo?",
+      "content": "Não, a participação no estudo é gratuita e voluntária."
+    },
+    {
+      "title": "O que acontece depois de me inscrever?",
+      "content": "No primeiro questionário, será solicitado(a) a responder algumas perguntas sobre a sua saúde e a sua vida diária. Este questionário será enviado apenas uma vez. A partir do preenchimento deste primeiro questionário, receberá um e-mail semanal convidando-o(a) a preencher um questionário."
+    },
+    {
+      "title": "Que perguntas compõem o primeiro questionário?",
+      "content": "O objetivo do questionário sobre a sua saúde e vida diária é descobrir um pouco mais sobre cada participante. Para a maioria das perguntas, tem a opção de não responder, escolhendo a resposta 'Não sei'. O preenchimento deste questionário demora aproximadamente 5 minutos."
+    },
+    {
+      "title": "Que perguntas são colocadas no questionário semanal?",
+      "content": "O questionário semanal pergunta sobre quaisquer sintomas que tenha apresentado desde a última vez que participou (tosse, febre, etc.). Se não apresentou sintomas, o preenchimento demorará apenas alguns segundos. Se tem ou já teve sintomas, ser-lhe-á perguntado quando começaram os sintomas, se consultou um médico e se teve de faltar ao trabalho. O preenchimento do questionário demorará alguns minutos nestas circunstâncias."
+    },
+    {
+      "title": "Posso preencher o questionário em nome de outra pessoa, como por exemplo, o meu filho?",
+      "content": "Sim, pode preencher os questionários de filhos menores de 18 anos."
+    },
+    {
+      "title": "Não sei se poderei preencher sempre o questionário semanal. Posso participar na mesma?",
+      "content": "Sim, pode. Basta preencher os questionários com a maior frequência possível. Quanto mais vezes participar, mais úteis serão os dados recolhidos.Ainda assim, mesmo que participe apenas de duas em duas semanas é uma ajuda importante para o estudo."
+    },
+    {
+      "title": "Os meus dados estão seguros?",
+      "content": "Levamos a segurança dos dados dos participantes muito a sério. O sistema está sujeito a requisitos rigorosos, incluindo nas áreas de privacidade e segurança da informação. O sistema foi cuidadosamente testado em termos de segurança, privacidade e capacidade por entidades externas na Universidade de Hasselt. Os riscos para os direitos e liberdades daqueles cujos dados pessoais são processados foram cuidadosamente avaliados."
+    },
+    {
+      "title": "Já fui infectado pelo novo coronavírus. Ainda faz sentido participar?",
+      "content": "Sim, participe também se já teve COVID-19. O Gripenet foi criado para estudar sintomas, incluindo em pessoas que já tiveram o novo coronavírus. Ao inscrever-se, perguntaremos se já foi infectado."
+    },
+    {
+      "title": "Esqueci-me da palavra-passe. O que devo fazer?",
+      "content": "Clique em 'Esqueci-me da palavra-passe' na janela de início de sessão. Introduza o seu endereço de e-mail e receberá um e-mail para criar uma nova palavra-passe."
+    },
+    {
+      "title": "Posso definir se recebo vou ou não e-mails do Gripenet?",
+      "content": "Sim, pode. Clique no nome do seu perfil na barra azul superior direita. Aceda às definições. Pode indicar se pretende receber e-mails – por exemplo, o convite semanal para comunicar os seus sintomas (mesmo sem um e-mail semanal, um novo questionário estará pronto para preencher)."
+    },
+    {
+      "title": "Como posso criar um perfil para o(s) meu(s) filho(s)?",
+      "content": "Clique no nome do seu perfil na barra azul superior direita. Pode adicionar o perfil do seu filho aí. Se selecionar o novo perfil, pode introduzir os detalhes do seu filho."
+    },
+    {
+      "title": "Iá não quero participar. Como posso retirar-me do estudo?",
+      "content": "Lamentamos que já não possa participar. Pode simplesmente deixar de responder ao questionário semanal. Se também quiser desistir completamente (e encerrar a sua conta), pode fazê-lo nas definições."
+    },
+    {
+      "title": "Quero alterar as minhas respostas. É possível?",
+      "content": "Pode alterar as suas respostas enquanto preenche o questionário. Depois de clicar no botão enviar, já não será possível alterar as suas respostas. Isto aplica-se tanto ao primeiro questionário como aos questionários semanais."
+    },
+    {
+      "title": "Tenho sintomas: receberei um diagnóstico se preencher o questionário?",
+      "content": "Não, o questionário permite enumerar os sintomas que apresenta, mas isso não substitui de forma alguma uma consulta médica, que pode fazer um diagnóstico."
+    },
+    {
+      "title": "Tenho uma condição crónica de saúde, por isso apresento frequentemente sintomas que também aparecem no questionário semanal: como devo preenchê-lo?",
+      "content": "Certas condições dão origem a sintomas do questionário semanal de forma crónica, como a síndrome da fadiga crónica ou a artrite reumatoide. Não precisa de marcar estes sintomas todas as vezes, a menos que tenham mudado. Por exemplo, se tiver reumático, marque a caixa 'Dor nas articulações' apenas se estes sintomas se agravarem recentemente ou forem diferentes do habitual."
+    },
+    {
+      "title": "Não tive sintomas esta semana: ainda devo preencher o questionário semanal?",
+      "content": "Sim, para obter uma imagem fiável da situação em Portugal, é importante ter dados sobre as pessoas doentes e as que não estão doentes. Se participarem apenas pessoas com sintomas, não podemos estimar corretamente a evolução do novo coronavírus. É por isso que é tão importante que as pessoas que não estão doentes participem como as que apresentam sintomas. Se não estiver doente, o questionário demorará apenas alguns segundos a preencher."
+    }
+  ]
+}
