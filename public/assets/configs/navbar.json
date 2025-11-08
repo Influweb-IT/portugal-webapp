@@ -24,11 +24,6 @@
       "type": "internal",
       "itemKey": "about",
       "url": "/about"
-    },
-    {
-      "type": "internal",
-      "itemKey": "results",
-      "url": "/results"
     }
   ],
   "rightItems": [
