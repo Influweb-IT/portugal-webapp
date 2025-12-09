@@ -31,7 +31,7 @@
   },
   "signup": {
     "title": "Registe-se",
-    "info": "Ao clicar no botão ** Registe-se** indica que aceita participar no [estudo GRIPENET](https://TODO/study-consent)",
+    "info": "Ao clicar no botão ** Registe-se** indica que aceita participar no [estudo GRIPENET](https://gripenet.pt/study-consent)",
     "emailInputLabel": "E-mail",
     "emailInputPlaceholder": "Introduzir endereço de e-mail",
     "passwordInputLabel": "Palavra-passe",

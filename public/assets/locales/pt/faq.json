@@ -23,7 +23,7 @@
   "faq": [
     {
       "title": "Quem criou o Gripenet?",
-      "content": "A Gripenet faz parte da Influenzanet, uma rede europeia que liga várias universidades e agências governamentais que gerem plataformas semelhantes. A Fundação ISI coordena esta rede. O objetivo da Influenzanet é mapear e monitorizar os sintomas de infeções, como o novo coronavírus (COVID-19) e a gripe, entre a população em geral na Europa. Os dados são utilizados para investigação científica sobre infeções e, atualmente, sobre o novo coronavírus."
+      "content": "A Gripenet integra a Influenzanet, uma rede europeia que reúne diversas universidades e agências governamentais responsáveis por plataformas semelhantes. A coordenação desta rede é assegurada pela Fundação ISI. O objetivo da Influenzanet é mapear e monitorizar, entre a população europeia, sintomas de infeções como a gripe e o novo coronavírus (COVID-19). Os dados recolhidos são utilizados para investigação científica nas áreas das infeções respiratórias."
     },
     {
       "title": "A quem se destina o Gripenet?",
@@ -35,7 +35,7 @@
     },
     {
       "title": "Porque devo participar?",
-      "content": "Para obter a melhor imagem possível da situação atual, é importante que todos participem, independentemente do historial ou dos fatores de risco. Alguém que nunca fica doente é tão capaz de adoecer como alguém que fica doente com frequência. Uma participação alargada pode também ajudar-nos a compreender porque é que algumas pessoas contraem infeções com menor frequência."
+      "content": "Participar no Gripenet permite contribuir para a vigilância e compreensão da gripe, COVID-19 e outras infeções respiratórias na população. As suas respostas ajudam a identificar tendências, complementar os dados clínicos tradicionais e apoiar investigação científica que melhora a resposta em saúde pública. A participação é simples, anónima e segura, e ainda lhe dá acesso a informação atualizada sobre a evolução dos sintomas na sua região e no país."
     },
     {
       "title": "Não sou português, mas vivo em Portugal: posso participar no Gripenet?",
@@ -47,7 +47,7 @@
     },
     {
       "title": "Tomei a vacina contra a gripe este ano. Posso participar?",
-      "content": "O estudo é dirigido a todos. Não importa se estão vacinados contra a gripe ou não."
+      "content": "O estudo é destinado a toda a população, independentemente de estarem vacinados contra a gripe ou a COVID-19."
     },
     {
       "title": "Quanto tempo demora a preencher o questionário Gripenet?",
@@ -83,11 +83,7 @@
     },
     {
       "title": "Os meus dados estão seguros?",
-      "content": "Levamos a segurança dos dados dos participantes muito a sério. O sistema está sujeito a requisitos rigorosos, incluindo nas áreas de privacidade e segurança da informação. O sistema foi cuidadosamente testado em termos de segurança, privacidade e capacidade por entidades externas na Universidade de Hasselt. Os riscos para os direitos e liberdades daqueles cujos dados pessoais são processados foram cuidadosamente avaliados."
-    },
-    {
-      "title": "Já fui infectado pelo novo coronavírus. Ainda faz sentido participar?",
-      "content": "Sim, participe também se já teve COVID-19. O Gripenet foi criado para estudar sintomas, incluindo em pessoas que já tiveram o novo coronavírus. Ao inscrever-se, perguntaremos se já foi infectado."
+      "content": "Os seus dados de contacto (e-mail e nome de utilizador) são armazenados separadamente das respostas aos questionários, que são associadas a um identificador único pseudonimizado. Apenas pessoas autorizadas, com aprovação do Responsável pelo Tratamento de Dados, têm acesso às respostas para fins de análise. A sua identidade nunca será divulgada nem estará acessível a investigadores. O tratamento dos dados cumpre o Regulamento Geral sobre a Proteção de Dados (RGPD) e a legislação nacional portuguesa (Lei n.º 58/2019, de 8 de agosto). A base legal para o tratamento é o seu consentimento (Artigo 6.º, alínea a) do RGPD)."
     },
     {
       "title": "Esqueci-me da palavra-passe. O que devo fazer?",
@@ -115,11 +111,23 @@
     },
     {
       "title": "Tenho uma condição crónica de saúde, por isso apresento frequentemente sintomas que também aparecem no questionário semanal: como devo preenchê-lo?",
-      "content": "Certas condições dão origem a sintomas do questionário semanal de forma crónica, como a síndrome da fadiga crónica ou a artrite reumatoide. Não precisa de marcar estes sintomas todas as vezes, a menos que tenham mudado. Por exemplo, se tiver reumático, marque a caixa 'Dor nas articulações' apenas se estes sintomas se agravarem recentemente ou forem diferentes do habitual."
+      "content": "Algumas doenças crónicas apresentam sintomas que aparecem no questionário semanal. Não é necessário assinalar esses sintomas toda semana, a menos que tenham mudado."
     },
     {
       "title": "Não tive sintomas esta semana: ainda devo preencher o questionário semanal?",
       "content": "Sim, para obter uma imagem fiável da situação em Portugal, é importante ter dados sobre as pessoas doentes e as que não estão doentes. Se participarem apenas pessoas com sintomas, não podemos estimar corretamente a evolução do novo coronavírus. É por isso que é tão importante que as pessoas que não estão doentes participem como as que apresentam sintomas. Se não estiver doente, o questionário demorará apenas alguns segundos a preencher."
+    },
+    {
+      "title": "Se já há vigilância tradicional da Gripe e da COVID-10, porque que vale a pena inscrever-me no Gripenet? Qual a diferença da vigilância tradicional?",
+      "content": "Participar no Gripenet oferece vantagens que complementam a vigilância tradicional, pois permite registar casos de infeções respiratórias (como gripe e COVID-19), mesmo no caso de as pessoas não recorrerem a cuidados de saúde, incluindo assim, também, os casos ligeiros que normalmente não entram nas estatísticas oficiais. Além disso, fornece dados quase em tempo real e informações demográficas detalhadas, facilitando a análise de tendências e a identificação de grupos de risco. É também uma solução mais económica, utilizando voluntários e tecnologia online, ao mesmo tempo que promove o envolvimento e a consciencialização da população em saúde pública. Assim, o Gripenet não substitui a vigilância tradicional, mas enriquece e complementa os dados existentes, melhorando o planeamento e a deteção precoce de surtos."
+    },
+    {
+      "title": "Não há sobreposição de informação?",
+      "content": "Pode existir alguma sobreposição de dados, mas ela é parcial e complementa a vigilância tradicional, não a substitui. A vigilância tradicional captura apenas os casos de pessoas que procuram atendimento médico, enquanto o Gripenet regista sintomas de qualquer pessoa, mesmo sem consulta, pelo que muitos casos ligeiros aparecem apenas no Gripenet, criando dados não sobrepostos. Além disso, algumas pessoas reportam sintomas antes de ir ao médico, permitindo a deteção precoce de surtos. Onde há sobreposição, os dados podem ser usados para verificar a consistência e melhorar a estimativa real da incidência da gripe ou de outras infeções respiratórias. Em conjunto, o Gripenet fornece dados quase em tempo real e de grupos que não procuram atendimento, enquanto a vigilância tradicional fornece casos laboratorialmente confirmados e mais graves, oferecendo assim uma visão mais completa da circulação viral. Em resumo, cada sistema captura informações que o outro pode perder, e o Gripenet enriquece e complementa a vigilância tradicional, especialmente para casos ligeiros e deteção precoce."
+    },
+    {
+      "title": "Só devo reportar sintomas se tiver gripe ou COVID-19?",
+      "content": "Não. A sua participação é independente de saber ou não o diagnóstico da infeção que pode ter, pois neste estudo analisamos os sintomas mais frequentemente associados a infeções respiratórias e não o diagnóstico médico. Por exemplo, o diagnóstico de gripe ou COVID-19 exige um teste laboratorial para confirmação, mas a presença de vários dos sintomas que são questionados estão frequentemente associados a estas infeções, permitindo-nos ter uma ideia da tendência destas infeções na população."
     }
   ]
 }

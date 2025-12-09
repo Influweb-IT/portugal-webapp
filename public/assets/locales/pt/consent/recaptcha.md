@@ -1,11 +1,13 @@
-This site uses Google Recaptcha to ensure the security of the website.
-This site uses tracking cookies, which monitor your behaviour during your visit in order to prevent automated actions that could, among other things, limit the website’s accessibility. The data that Google collects and analyses by means of these tracking cookies include:
+Este site utiliza o Google Recaptcha para garantir a segurança do website.
 
-* IP address
-* Cookies that Google has installed in the past 6 months.
-* Google account login status
-* The visitor’s browsing behaviour
+Este site utiliza cookies de rastreamento, que monitorizam o seu comportamento durante a visita de forma a impedir ações automatizadas que possam, entre outros aspetos, limitar a acessibilidade do website. Os dados que a Google recolhe e analisa através destes cookies de rastreamento incluem:
 
-For more information about the use of this service and the processing of your data, see the [privacy policy](https://gripiradar.ut.ee/privacy).
+* Endereço IP
+* Cookies que a Google instalou nos últimos 6 meses
+* Estado de login da conta Google
+* O comportamento de navegação do visitante
 
-By clicking on “I agree” you consent to the installation of tracking cookies and the processing of the above-mentioned data by Google.
+Para mais informações sobre a utilização deste serviço e o tratamento dos seus dados, consulte a política de privacidade.
+
+Ao clicar em “Concordo”, consente a instalação de cookies de rastreamento e o tratamento dos dados acima mencionados pela Google.
+
