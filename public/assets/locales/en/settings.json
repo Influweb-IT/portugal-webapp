@@ -29,8 +29,7 @@
       "title": "Language",
       "info": "You can change the language here.",
       "languages": {
-        "et": "Estonian",
-        "ru": "Russian",
+        "pt": "Portuguese",
         "en": "English"
       }
     }

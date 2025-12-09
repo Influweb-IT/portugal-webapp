@@ -170,9 +170,7 @@
     "defaultLanguageLabel": "Idioma predefinido",
     "info": "Pode alterar o idioma predefinido aqui. Se disponível, os e-mails também serão enviados neste idioma.",
     "languages": {
-      "et": "Estónio",
-      "ru": "Russo",
-      "en": "Inglês"
+      "pt": "Português"
     },
     "cancelBtn": "Cancelar",
     "confirmBtn": "Confirmar idioma",

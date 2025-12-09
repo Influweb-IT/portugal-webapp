@@ -13,9 +13,9 @@
     "profiles": {
       "title": "Perfis",
       "info": "Edite o seu próprio perfil ou, como pai ou representante legal, adicione o perfil do seu filho com idade até aos 17 anos.",
-      "btn": "{{conta}} perfil",
-      "btn_plural": "{{conta}} perfis",
-      "btn_other": "{{conta}} perfis"
+      "btn": "{{count}} perfil",
+      "btn_plural": "{{count}} perfis",
+      "btn_other": "{{count}} perfis"
     }
   },
   "communication": {
@@ -29,9 +29,7 @@
       "title": "Idioma",
       "info": "Pode alterar o idioma aqui.",
       "languages": {
-        "et": "Estónio",
-        "ru": "Russo",
-        "en": "Inglês"
+        "pt": "Português"
       }
     }
   },
