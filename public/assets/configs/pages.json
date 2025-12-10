@@ -197,11 +197,6 @@
                         "linkKey": "communicationSettings",
                         "type": "dialog",
                         "value": "changeNotifications"
-                      },
-                      {
-                        "linkKey": "languageSettings",
-                        "type": "dialog",
-                        "value": "changeLanguage"
                       }
                     ]
                   }
