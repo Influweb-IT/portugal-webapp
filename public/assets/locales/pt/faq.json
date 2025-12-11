@@ -15,16 +15,12 @@
     "actionLabel": "Subscrever"
   },
   "surveyCard": {
-    "imageAlt": "Informe agora!",
-    "title": "Informe agora!",
+    "imageAlt": "Partecipe agora!",
+    "title": "Partecipe agora!",
     "body": "Informe se apresenta algum sintoma.",
     "actionLabel": "Questionários"
   },
   "faq": [
-    {
-      "title": "Quem criou o Gripenet?",
-      "content": "A Gripenet integra a Influenzanet, uma rede europeia que reúne diversas universidades e agências governamentais responsáveis por plataformas semelhantes. A coordenação desta rede é assegurada pela Fundação ISI. O objetivo da Influenzanet é mapear e monitorizar, entre a população europeia, sintomas de infeções como a gripe e o novo coronavírus (COVID-19). Os dados recolhidos são utilizados para investigação científica nas áreas das infeções respiratórias."
-    },
     {
       "title": "A quem se destina o Gripenet?",
       "content": "Qualquer pessoa que viva em Portugal e tenha acesso à internet pode participar no Gripenet, voluntariamente e durante o tempo que desejar."
@@ -128,6 +124,10 @@
     {
       "title": "Só devo reportar sintomas se tiver gripe ou COVID-19?",
       "content": "Não. A sua participação é independente de saber ou não o diagnóstico da infeção que pode ter, pois neste estudo analisamos os sintomas mais frequentemente associados a infeções respiratórias e não o diagnóstico médico. Por exemplo, o diagnóstico de gripe ou COVID-19 exige um teste laboratorial para confirmação, mas a presença de vários dos sintomas que são questionados estão frequentemente associados a estas infeções, permitindo-nos ter uma ideia da tendência destas infeções na população."
+    },
+    {
+      "title": "Quem criou o Gripenet?",
+      "content": "A Gripenet integra a Influenzanet, uma rede europeia que reúne diversas universidades e agências governamentais responsáveis por plataformas semelhantes. A coordenação desta rede é assegurada pela Fundação ISI. O objetivo da Influenzanet é mapear e monitorizar, entre a população europeia, sintomas de infeções como a gripe e o novo coronavírus (COVID-19). Os dados recolhidos são utilizados para investigação científica nas áreas das infeções respiratórias."
     }
   ]
 }

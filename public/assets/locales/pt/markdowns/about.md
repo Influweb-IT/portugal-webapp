@@ -1,6 +1,6 @@
 # Gripenet
 
-Muitas das pessoas infetadas com vírus respiratórios, como o vírus da gripe ou o SARS-CoV-2 (COVID-19), apresentam sintomas ligeiros sem necessidade de cuidados médicos, o que frequentemente impede a sua deteção pelos sistemas tradicionais de vigilância clínica.
+Muitas pessoas infetadas com vírus respiratórios, como o vírus da gripe ou o SARS-CoV-2 (COVID-19), apresentam sintomas ligeiros sem necessidade de cuidados médicos, o que frequentemente impede a sua deteção pelos sistemas tradicionais de vigilância clínica.
 
 Através da participação voluntária da população, o **Gripenet** permite a identificação precoce desses casos, contribuindo assim para uma monitorização epidemiológica mais abrangente e em tempo real da circulação destes agentes infeciosos na comunidade.
 
@@ -45,10 +45,6 @@ Para garantir que também se obtém informação sobre crianças e jovens, os pa
 ## Participação
 
 A sua participação neste estudo é **voluntária** e pode desistir a qualquer momento, sem necessidade de justificar a decisão.
-
-O Gripenet foi avaliado pela **Comissão de Ética do Instituto Nacional de Saúde Doutor Ricardo Jorge**. O facto de ter sido aprovado não implica qualquer obrigação de participação.
-
-O Gripenet não tem qualquer financiamento externo ao INSA.
 
 ## Parceiros
 
