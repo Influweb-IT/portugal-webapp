@@ -422,8 +422,10 @@
                 {
                   "itemKey": "results",
                   "config": {
-                    "type": "markdown",
-                    "markdownUrl": "/markdowns/about.md"
+                    "type": "extension",
+                    "config": {
+                      "type": "results-iframe"
+                    }
                   }
                 }
               ]

@@ -1,18 +1,23 @@
 import { useTranslation } from "react-i18next";
-import IframeResizer  from "@iframe-resizer/react";
 
 const ResultsIFrame = (props: any) => {
     const { i18n } = useTranslation();
 
-    const baseUrl = "https://hivlab.github.io/gripiradar/";
+    const baseUrl = "https://storage.googleapis.com/gripenetpt-results/results.html";
     const iframeURL = `${baseUrl}#${i18n.language}`;
 
     return (
-        <IframeResizer
+        <iframe
             id="iframe-target"
-            license="GPLv3"
             src={iframeURL}
-            style={{ width: '100%',  height: '100vh' }}
+            title="Gripenet Results"
+            style={{ 
+                width: '100%', 
+                height: 'calc(100vh - 160px)', 
+                minHeight: '750px', 
+                border: 'none',
+                display: 'block'
+            }}
         />
     );
 };

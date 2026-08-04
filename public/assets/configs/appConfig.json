@@ -1,13 +1,14 @@
 {
   "instanceId": "portugal",
+  "defaultLanguage": "pt",
   "languages": [
-    {
-      "code": "en",
-      "itemKey": "en"
-    },
     {
       "code": "pt",
       "itemKey": "pt"
+    },
+    {
+      "code": "en",
+      "itemKey": "en"
     }
   ],
   "avatars": [
