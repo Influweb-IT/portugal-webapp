@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+html {
+  font-size: 16px !important;
+}
+
+body {
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  color: #212529 !important;
+  font-size: 16px !important;
+  line-height: 1.5 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-weight: 700 !important;
+  color: #212529 !important;
+  margin-bottom: 10px !important;
+}
+
+p {
+  margin-bottom: 10px !important;
+}
+
+a {
+  color: #D92321 !important;
+}
+
+a:hover {
+  color: #ad1b1a !important;
+}
