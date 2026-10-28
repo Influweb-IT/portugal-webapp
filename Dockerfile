@@ -10,8 +10,9 @@ COPY . .
 COPY ${ENV_FILE} /app/.env.local
 RUN yarn build
 # production environment
-FROM nginx:stable-alpine
+FROM nginx:1.30.6-alpine3.24
+RUN apk upgrade --no-cache
 COPY --from=build /app/build /usr/share/nginx/html
 COPY nginx/default.conf /etc/nginx/conf.d/default.conf
-EXPOSE 3000 80
+EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
