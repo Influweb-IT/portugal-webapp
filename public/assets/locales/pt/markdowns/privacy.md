@@ -26,7 +26,7 @@ Os dados pseudonimizados serão utilizados exclusivamente para fins de investiga
 
 Os dados do estudo serão tratados em conformidade com o Regulamento Geral sobre a Proteção de Dados (RGPD) – Regulamento (UE) 2016/679 – e com a legislação nacional portuguesa, nomeadamente a Lei n.º 58/2019, de 8 de agosto.
 
-A base legal para o tratamento dos seus dados é o seu **consentimento** (Artigo 6.º, alínea a) do RGPD).
+A base legal para o tratamento dos seus dados é o seu **consentimento** (Artigo 6.º, n.º 1, alínea a), e Artigo 9.º, n.º 2, alínea a), do RGPD).
 
 ## 5. Posso aceder e corrigir os meus dados recolhidos e tratados durante o projeto?
 
@@ -40,12 +40,12 @@ Tem o direito de:
 * Opor-se ao tratamento dos seus dados pessoais;
 * Revogar o consentimento para o tratamento dos dados pessoais.
 
-Os dados pessoais recolhidos antes da revogação do consentimento serão conservados para evitar interpretações erradas dos resultados do estudo.
+Após a revogação do consentimento, os seus dados de contacto serão eliminados e as respostas pseudonimizadas recolhidas antes da revogação serão conservadas para evitar interpretações erradas dos resultados do estudo.
 
 Pode exercer os seus direitos contactando o INSA através do e-mail `dpo@insa.min-saude.pt` ou `gripenet@insa.min-saude.pt` ou por correio postal para a sua sede:
 
 > Departamento de Epidemiologia, Instituto Nacional de Saúde
-> Av. Padre Cruz, 1640-016 Lisboa
+> Av. Padre Cruz, 1649-016 Lisboa
 
 ## 6. Qual será a utilização dos resultados do projeto?
 
@@ -59,11 +59,11 @@ Não. Os dados recolhidos serão utilizados exclusivamente para responder às qu
 
 ## 8. Durante quanto tempo serão conservados os meus dados?
 
-Após o término do estudo, as suas respostas aos questionários serão conservadas por um período mínimo de **25 anos**, de forma a garantir a validade científica dos resultados.
+Após o término do estudo, as suas respostas aos questionários serão conservadas por um período máximo de **25 anos**, de forma a garantir a validade científica dos resultados.
 
 ---
 
 ### Alterações à política de privacidade
 Esta política de privacidade poderá ser modificada e atualizada no futuro. Qualquer alteração a estes termos serão publicados e divulgados pelos participantes.
 
-*Versão: 03/11/2025*
+*Versão: 04/11/2026*
