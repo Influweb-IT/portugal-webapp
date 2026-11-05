@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.3.0
+_src_path: gh:influenzanet/participant-webapp-template
+app_title: Gripenet
+date_locales:
+-   code: pt
+    dateFns: pt
+    format: dd/MM/yyyy
+description: A participatory surveillance platform in Portugal
+dev_path_proxies:
+    /results-proxy: https://storage.googleapis.com/gripenetpt-results
+dev_proxy_target: https://portugal.staging.influenzanet.info
+dev_ws_proxy_paths: []
+docker_image: influweb/portugal-webapp
+extra_dependencies: {}
+favicon: /assets/static/images/favicon/favicon.png
+head_extra: ''
+html_lang: pt
+package_name: portugal

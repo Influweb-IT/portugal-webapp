@@ -29,8 +29,7 @@
       "title": "Language",
       "info": "You can change the language here.",
       "languages": {
-        "et": "Estonian",
-        "ru": "Russian",
+        "pt": "Portuguese",
         "en": "English"
       }
     }
@@ -48,7 +47,7 @@
   "systemInfo": {
     "title": "System information",
     "appNameLabel": "Application name",
-    "appName": "Gripiradar",
+    "appName": "Gripenet",
     "versionLabel": "Version",
     "browserNameLabel": "Browser name",
     "browserVersionLabel": "Browser version"

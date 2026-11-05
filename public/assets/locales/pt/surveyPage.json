@@ -1,0 +1,32 @@
+{
+  "exitSurveyWarningDialog": {
+    "title": "Quer sair do questionário?",
+    "warning": "Todas as informações inseridas serão perdidas caso não complete o questionário. Tem a certeza de que pretende parar de responder?",
+    "cancelBtn": "Continue a preencher o questionário",
+    "confirmBtn": "Sair do questionário"
+  },
+  "noSurveyLoaded": "Falha a carregar a página. Atualize a página",
+  "submittingSurveyResponsesMsg": "A submeter as respostas...",
+  "notValidQuestion": "Selecione uma resposta válida para todas as questões.",
+  "backBtn": "Voltar",
+  "nextBtn": "Próximo",
+  "submitBtn": "Enviar",
+  "surveyLoadingError": {
+    "content": "Infelizmente, algo correu mal ao carregar o questionário. \n\nPor favor, tente novamente ou contacte o nosso suporte se o problema persistir.",
+    "btn": "Tente novamente"
+  },
+  "surveySubmissionError": {
+    "content": "Infelizmente, algo correu mal ao enviar o questionário.\n\nPor favor, tente novamente ou contacte o nosso suporte se o problema persistir.",
+    "btn": "Tente novamente"
+  },
+  "submitSuccessDialog": {
+    "title": "Informações",
+    "content": "O seu questionário foi enviado com sucesso.",
+    "btn": "Continuar"
+  },
+  "profileSelectionDialog": {
+    "title": "Selecione um perfil",
+    "info": "Selecione o perfil que pretende utilizar",
+    "manageProfilesBtn": "Crie um novo perfil"
+  }
+}

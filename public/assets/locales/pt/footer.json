@@ -1,0 +1,18 @@
+{
+  "services": {
+    "title": "Serviços",
+    "contact": "Contactos",
+    "twitter": "Siga-nos no X",
+    "facebook": "Siga-nos no Facebook",
+    "instagram": "Siga-nos no Instagram"
+  },
+  "about": {
+    "title": "Documentos legais",
+    "privacy": "Política de Privacidade"
+  },
+  "languages": {
+    "title": "Idiomas",
+    "en": "Ingês",
+    "pt": "Português"
+  }
+}

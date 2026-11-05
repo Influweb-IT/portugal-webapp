@@ -1,0 +1,18 @@
+{
+  "home": "Início",
+  "authhome": "Início",
+  "faq": "Perguntas frequentes",
+  "about": "Acerca de",
+  "results": "Resultados",
+  "login": "Início de sessão",
+  "signup": "Inscrever-se",
+  "rightMenu": {
+    "settings": "Configurações",
+    "logout": "Terminar sessão",
+    "verified": "Conta não verificada"
+  },
+  "exitSurveyMode": "Sair",
+  "selectedProfilePrefixInSurveyMode": "Respondendo por: ",
+  "toggleBtn": "Menu",
+  "toggleBtnAriaLabel": "Menu"
+}

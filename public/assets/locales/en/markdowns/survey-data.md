@@ -17,12 +17,11 @@ health conditions (data that indicate belonging to a risk group, which is why it
 vaccinated against influenza and/or SARS-CoV-2), data on employment and lifestyle,
 - data on symptoms reported on a weekly symptom questionnaire.
 
-Encrypted data collected as part of the study will be processed by University of Tartu
+Encrypted data collected as part of the study will be processed by University of TODO
 researchers, and your encrypted data may be processed by other researchers only with the
-permission of University of Tartu researchers. We confirm that the processing of personal data
+permission of University of TODO researchers. We confirm that the processing of personal data
 is carried out in accordance with the applicable laws, respecting your rights and data privacy.
-The researchers: Professor Irja Lutsar from the University of Tartu irja.lutsar@ut.ee and
-Associate professor Kristi Huik kristi.huik@ut.ee
+The researchers: TODO
 
 ---
 

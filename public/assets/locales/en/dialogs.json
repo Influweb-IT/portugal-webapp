@@ -31,7 +31,7 @@
   },
   "signup": {
     "title": "Sign up",
-    "info": "By clicking the **Sign up** button you agree to take part in the [Gripiradar study](https://gripiradar.ut.ee/study-consent)",
+    "info": "By clicking the **Sign up** button you agree to take part in the [Gripenet study](https://TODO/study-consent)",
     "emailInputLabel": "Email",
     "emailInputPlaceholder": "Enter Email",
     "passwordInputLabel": "Password",
@@ -170,8 +170,7 @@
     "defaultLanguageLabel": "Default language",
     "info": "You can change the default language here. If availble, also emails will be send in this language.",
     "languages": {
-      "et": "Estonian",
-      "ru": "Russian",
+      "pt": "Portuguese",
       "en": "English"
     },
     "cancelBtn": "Cancel",

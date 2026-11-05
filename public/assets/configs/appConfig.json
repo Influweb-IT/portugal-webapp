@@ -1,13 +1,10 @@
 {
-  "instanceId": "default",
+  "instanceId": "portugal",
+  "defaultLanguage": "pt",
   "languages": [
     {
-      "code": "et",
-      "itemKey": "et"
-    },
-    {
-      "code": "ru",
-      "itemKey": "ru"
+      "code": "pt",
+      "itemKey": "pt"
     },
     {
       "code": "en",

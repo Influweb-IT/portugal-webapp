@@ -1,55 +1,23 @@
-import React, { Suspense } from 'react';
-import ReactDOM from 'react-dom';
-import reportWebVitals from './reportWebVitals';
-import { Provider } from 'react-redux';
-import { store, initI18n } from '@influenzanet/case-web-app-core';
+// App entry point (owned by this repo, never touched by copier update).
+// Shared boot logic: @influenzanet/participant-webapp-kit renderParticipantApp().
+import { renderParticipantApp } from "@influenzanet/participant-webapp-kit";
+import { pt } from "date-fns/locale";
 
-import { LoadingPlaceholder } from '@influenzanet/case-web-ui';
+import "./index.scss";
 
-import './index.scss';
+import * as appConfig from "./configs/appConfig.json";
+import * as footerConfig from "./configs/footer.json";
+import * as headerConfig from "./configs/header.json";
+import * as navbarConfig from "./configs/navbar.json";
+import * as pagesConfig from "./configs/pages.json";
 
-import '@fontsource/open-sans';
-// import "@fontsource/open-sans/300.css"; // for light font
-import '@fontsource/open-sans/400-italic.css';
-import '@fontsource/open-sans/700.css';
-import {
-  faHome,
-  faSignOutAlt,
-  faCog,
-  faArrowRight,
-  faArrowLeft,
-  faBars,
-  faPen,
-  faTrash,
-} from '@fortawesome/free-solid-svg-icons';
-import { faTwitter, faFacebook } from '@fortawesome/free-brands-svg-icons';
-import { library, dom } from '@fortawesome/fontawesome-svg-core';
-
-import 'bootstrap/dist/js/bootstrap.bundle';
-
-import App from './App';
-
-const localeURL = process.env.REACT_APP_CONTENT_URL + '/locales';
-const defaultLanguage = process.env.REACT_APP_DEFAULT_LANGUAGE ?? 'en';
-const fallbackLanguage = process.env.REACT_APP_FALLBACK_LANGUAGE ?? 'en';
-
-initI18n(defaultLanguage, fallbackLanguage, localeURL);
-
-library.add(faHome, faSignOutAlt, faCog, faArrowRight, faArrowLeft, faBars, faPen, faTrash, faTwitter, faFacebook);
-dom.watch();
-
-ReactDOM.render(
-  <React.StrictMode>
-    <Provider store={store}>
-      <Suspense fallback={<LoadingPlaceholder color="secondary" minHeight="100vh" />}>
-        <App />
-      </Suspense>
-    </Provider>
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// The results page (pages.json, "iframeEmbed") shows /results-proxy/results.html,
+// proxied from the gripenetpt-results bucket by nginx/snippets/locations.conf.
+renderParticipantApp({
+  appConfig,
+  footerConfig,
+  headerConfig,
+  navbarConfig,
+  pagesConfig,
+  dateLocales: [{ code: "pt", locale: pt, format: "dd/MM/yyyy" }],
+});

@@ -1,0 +1,84 @@
+{
+  "verifyEmail": {
+    "title": "Verificação do endereço de e-mail",
+    "content": {
+      "info": "",
+      "success": "Sucesso! O seu endereço de e-mail foi confirmado. \n\n Iniciar sessão agora.",
+      "btn": {
+        "successWithAuth": "Início",
+        "successWithoutAuth": "Início de sessão",
+        "errorWithAuth": "Início",
+        "errorWithoutAuth": "Ir para início de sessão"
+      }
+    },
+    "errors": {
+      "wrongToken": "Algo correu mal. Verifique se está a utilizar o link correto, e se não tentou este link previamente. Solicite um novo e-mail, se necessário.",
+      "unknown": "Algo correu mal. Verifique as suas informações ou tente novamente mais tarde."
+    }
+  },
+  "passwordReset": {
+    "title": "Nova palavra-passe",
+    "content": {
+      "info": "",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "Introduzir endereço de e-mail",
+      "newPasswordLabel": "Palavra-passe",
+      "newPasswordPlaceholder": "Introduzir nova palavra-passe",
+      "confirmPasswordLabel": "Confirmar palavra-passe",
+      "confirmPasswordPlaceholder": "Introduzir nova palavra-passe novamente",
+      "btn": "Alterar a palavra-passe",
+      "restartBtn": "Novamente",
+      "successMsg": "Palavra-passe alterada",
+      "successBtn": "Início de sessão"
+    },
+    "errors": {
+      "passwordRules": "A sua palavra-passe deve ter pelo menos 8 caracteres e conter 3 dos 4 elementos seguintes: letras minúsculas, letras maiúsculas, números, sinais de pontuação.",
+      "passwordMatch": "As palavras-passe não são iguais",
+      "wrongToken": "Algo correu mal. Verifique se está a utilizar o link correto, e se não tentou este link previamente. Solicite um novo e-mail, se necessário.",
+      "unknown": "Algo correu mal. Verifique as suas informações ou tente novamente mais tarde."
+    }
+  },
+  "invitation": {
+    "title": "Bem-vindo!",
+    "content": {
+      "info": "## Bem-vindo! \n\n Antes de começar a utilizar o sistema, é necessário definir uma palavra-passe.",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "Introduzir endereço de e-mail",
+      "newPasswordLabel": "Palavra-passe",
+      "newPasswordPlaceholder": "Introduzir palavra-passe",
+      "confirmPasswordLabel": "Confirmar palavra-passe",
+      "confirmPasswordPlaceholder": "Introduzir palavra-passe novamente",
+      "informedConsentCheckbox": "Aceite a <1>política de privacidade</1>.*",
+      "btn": "Confirmar a palavra-passe",
+      "restartBtn": "Novamente",
+      "successMsg": "Palavra-passe confirmada",
+      "successBtn": "Início de sessão"
+    },
+    "privacyConsent": {
+      "title": "Política de Privacidade",
+      "acceptBtn": "Eu consinto",
+      "cancelBtn": "Eu não consinto"
+    },
+    "errors": {
+      "passwordRules": "A sua palavra-passe deve ter pelo menos 8 caracteres e conter 3 dos 4 elementos seguintes: letras minúsculas, letras maiúsculas, números, sinais de pontuação.",
+      "passwordMatch": "As palavras-passe não são iguais",
+      "wrongToken": "Algo correu mal. Verifique se está a utilizar o link correto, e se não tentou este link previamente. Solicite um novo e-mail, se necessário.",
+      "unknown": "Algo correu mal. Verifique as suas informações ou tente novamente mais tarde."
+    }
+  },
+  "studyLogin": {
+    "title": "Bem-vindo(a) de volta!",
+    "content": {
+      "cardTitle": "Início de sessão",
+      "info": "",
+      "emailInputLabel": "E-mail",
+      "emailInputPlaceholder": "Introduzir endereço de e-mail",
+      "passwordInputLabel": "Palavra-passe",
+      "passwordInputPlaceholder": "Introduzir palavra-passe",
+      "rememberMeLabel": "Manter-me autenticado",
+      "btn": "Início de sessão",
+      "passwordForgottenBtn": "Esqueci-me da palavra-passe",
+      "signupBtn": "Ainda não tem conta? Registe-se."
+    }
+  }
+}

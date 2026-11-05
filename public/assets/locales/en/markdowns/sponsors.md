@@ -4,19 +4,13 @@
   </div>
 </div>
 <div class="row mb-2">
-  <a class="col-md d-flex justify-content-center" href="https://ut.ee/en" target="_blank">
-    <img class="img-fluid" src="assets/images/tartu_logo_en.png" alt="UT logo" title="UT" />
+  <a class="col-md  d-flex justify-content-center" href="https://www.portugal.gov.pt" target="_blank">
+    <img class="img-fluid" src="assets/images/portugal-logo.png" alt="Portugal logo" title="Portugal" />
   </a>
-  <a class="col-md d-flex justify-content-center" href="https://www.terviseamet.ee/en" target="_blank">
-    <img class="img-fluid" src="assets/images/terviseamet_en.png" alt="Terviseamet logo" title="UT" />
+  <a class="col-md d-flex justify-content-center" href="https://www.sns24.gov.pt" target="_blank">
+    <img class="img-fluid" src="assets/images/sns-logo.png" alt="SNS logo" title="SNS" />
   </a>
-  <a class="col-md  d-flex justify-content-center" href="https://verdiproject.org" target="_blank">
-    <img class="img-fluid" src="assets/images/verdi_logo.jpg" alt="Verdi logo" title="Verdi" />
-  </a>
-  <a class="col-md d-flex justify-content-center" href="http://influenzanet.info" target="_blank">
-    <img class="img-fluid" src="assets/images/influenzanet.png" alt="Influenzanet logo" title="Influenzanet" />
-  </a>
-  <a class="col-md d-flex justify-content-center" href="https://isi.it/en/home" target="_blank">
-    <img class="img-fluid" src="assets/images/isi.jpg" alt="ISI logo" title="ISI" />
+  <a class="col-md d-flex justify-content-center" href="https://www.insa.min-saude.pt" target="_blank">
+    <img class="img-fluid" src="assets/images/insa-logo.png" alt="INSA logo" title="INSA" />
   </a>
 </div>
