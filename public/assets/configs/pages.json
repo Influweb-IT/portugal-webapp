@@ -424,7 +424,13 @@
                   "config": {
                     "type": "extension",
                     "config": {
-                      "type": "results-iframe"
+                      "type": "iframeEmbed",
+                      "url": "/results-proxy/results.html#{lang}",
+                      "title": "Gripenet Results",
+                      "autoResize": false,
+                      "height": "calc(100vh - 160px)",
+                      "minHeight": "750px",
+                      "stylesheet": "/results-embed.css"
                     }
                   }
                 }
